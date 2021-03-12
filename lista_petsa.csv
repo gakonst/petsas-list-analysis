@@ -1,0 +1,1233 @@
+category,name,district,amount_instructed,pre_tax_billed_amount,total_value_with_tax
+newspaper,AGRENDA,,6000.0,6000.0,7440.0
+newspaper,ANAΓΝΩΣΤΗΣ ΕΛΑΣΣΟΝΑΣ,ΛΑΡΙΣΗΣ,1500.0,1500.0,1860.0
+newspaper,ATHENS REVIEW OF BOOKS,ΑΤΤΙΚΗΣ,5000.0,5000.0,6200.0
+newspaper,AXIANEWS,,6000.0,6000.0,7440.0
+newspaper,DEAL NEWS,,5000.0,5000.0,6200.0
+newspaper,DYTIKH FREE PRESS,ΑΤΤΙΚΗΣ,2000.0,2000.0,2480.0
+newspaper,KONTRA NEWS,,36000.0,36000.0,44640.0
+newspaper,LIVE SPORT,,4000.0,4000.0,4960.0
+newspaper,METROSPORT,ΘΕΣΣΑΛΟΝΙΚΗΣ,8000.0,8000.0,9920.0
+newspaper,PELLA NEWS,ΠΕΛΛΑΣ,1998.0,1998.0,2477.52
+newspaper,REAL NEWS,,60000.0,60000.0,74400.0
+newspaper,SPORT DAY,,7000.0,7000.0,8680.0
+newspaper,SPORTIME,ΗΡΑΚΛΕΙΟΥ,7000.0,7000.0,8680.0
+newspaper,ΑΓΡΟΕΚΦΡΑΣΗ,ΛΑΡΙΣΗΣ,1800.0,1800.0,2232.0
+newspaper,ΑΓΩΝΑΣ ΤΗΣ ΚΡΗΤΗΣ,ΧΑΝΙΩΝ,4000.0,4000.0,4960.0
+newspaper,ΑΓΩΝΑΣ ΤΗΣ ΞΑΝΘΗΣ,ΞΑΝΘΗΣ,2000.0,2000.0,2480.0
+newspaper,ΑΙΧΜΗ,ΑΙΤ/ΝΙΑΣ,3600.0,3600.0,4464.0
+newspaper,ΑΙΧΜΗ ΜΕΓΑΡΩΝ ΝΕΑΣ ΠΕΡΑΜΟΥ ΚΑΙ ΔΥΤΙΚΗΣ ΑΤΤΙΚΗΣ,ΑΤΤΙΚΗΣ,1000.0,1000.0,1240.0
+newspaper,ΑΚΤΗ ΜΙΑΟΥΛΗ,ΑΤΤΙΚΗΣ,3000.0,3000.0,3720.0
+newspaper,ΑΛΗΘΕΙΑ,ΧΙΟΥ,1998.0,1998.0,2337.66
+newspaper,ΑΛΗΘΕΙΑ,ΧΑΝΙΩΝ,1400.0,1400.0,1736.0
+newspaper,ΑΛΗΘΕΙΑ,ΚΑΡΔΙΤΣΑΣ,3000.0,3000.0,3720.0
+newspaper,ΑΛΗΘΕΙΑ ΗΜΕΡΗΣΙΑ,ΚΑΡΔΙΤΣΑΣ,2000.0,2000.0,2480.0
+newspaper,ΑΛΛΑΓΗ ΛΟΥΤΡΑΚΙΟΥ,ΚΟΡΙΝΘΟΥ,1000.0,1000.0,1240.0
+newspaper,ΑΜΑΡΥΣΙΑ,ΑΤΤΙΚΗΣ,3000.0,3000.0,3720.0
+newspaper,ΑΝΑΓΓΕΛΙΑ,ΑΙΤ/ΝΙΑΣ,3000.0,3000.0,3720.0
+newspaper,ΑΝΑΓΝΩΣΤΗΣ ΠΕΛ/ΣΟΥ,ΑΡΓΟΛΙΔΑΣ,1999.98,2001.0,2481.24
+newspaper,ΑΝΑΛΥΤΗΣ,ΚΑΒΑΛΑΣ,2000.0,2000.0,2480.0
+newspaper,ΑΝΑΤΟΛΗ,ΛΑΣΙΘΙΟΥ,5625.0,5625.0,6975.0
+newspaper,ΑΝΕΞΑΡΤΗΤΟΣ,ΙΩΑΝΝΙΝΩΝ,4000.0,4000.0,4960.0
+newspaper,ΑΝΤΙΛΑΛΟΣ ΜΕΣΣΑΡΑΣ,ΗΡΑΚΛΕΙΟΥ,2000.0,2000.0,2480.0
+newspaper,ΑΠΟΨΗ,,20000.0,20000.0,24800.0
+newspaper,ΑΠΟΨΗ ΤΗΣ ΠΕΛΛΑΣ,ΠΕΛΛΑΣ,1000.0,1000.0,1240.0
+newspaper,ΑΠΟΨΗ ΤΟΥ ΝΟΤΟΥ,ΗΡΑΚΛΕΙΟΥ,2000.0,2000.0,2480.0
+newspaper,ΑΡΓΟΛΙΔΑ,ΑΡΓΟΛΙΔΑΣ,3990.0,3990.0,4947.6
+newspaper,ΑΡΓΟΛΙΚΗ ΑΝΑΠΤΥΞΗ,ΑΡΓΟΛΙΔΑΣ,2000.0,2000.0,2480.0
+newspaper,ΑΥΓΗ,,10500.0,10500.0,13020.0
+newspaper,ΑΧΑΪΚΟΣ ΤΥΠΟΣ,ΑΧΑΪΑΣ,2000.0,2000.0,2480.0
+newspaper,ΒΕΡΟΙΑ,ΗΜΑΘΙΑΣ,3000.0,3000.0,3720.0
+newspaper,ΒΗΜΑ,,96000.0,96000.0,119040.0
+newspaper,ΒΗΜΑ ΔΩΔΕΚΑΝΗΣΟΥ,ΔΩΔΕΚΑΝΗΣΟΥ,3000.0,3000.0,3720.0
+newspaper,ΒΗΜΑ ΤΗΣ ΚΩ,ΔΩΔΕΚΑΝΗΣΟΥ,1998.0,1998.0,2337.66
+newspaper,ΒΗΜΑ ΤΗΣ ΠΡΕΒΕΖΑΣ,ΠΡΕΒΕΖΑΣ,3000.0,3000.0,3720.0
+newspaper,ΒΟΙΩΤΙΚΑ ΝΕΑ,ΒΟΙΩΤΙΑΣ,3000.0,3000.0,3720.0
+newspaper,ΒΟΡΕΙΝΗ,ΑΤΤΙΚΗΣ,2000.0,2000.0,2480.0
+newspaper,ΒΡΑΔΥΝΗ,,18000.0,18000.0,22320.0
+newspaper,ΓΝΩΜΗ,ΑΡΤΑΣ,2000.0,2000.0,2480.0
+newspaper,ΓΝΩΜΗ,ΕΒΡΟΥ,1800.0,1800.0,2232.0
+newspaper,ΓΝΩΜΗ,ΚΑΡΔΙΤΣΑΣ,2000.0,2000.0,2480.0
+newspaper,ΓΟΡΤΥΝΙΑ,ΑΡΚΑΔΙΑΣ,700.0,700.0,868.0
+newspaper,ΔΕΛΤΙΟ ΔΙΟΙΚΗΣΗΣ ΕΠΙΧΕΙΡΗΣΕΩΝ,,2000.0,2000.0,2480.0
+newspaper,ΔΗΜΟΚΡΑΤΗΣ,ΛΕΣΒΟΥ,3000.0,3000.0,3510.0
+newspaper,ΔΗΜΟΚΡΑΤΙΑ,,24000.0,24000.0,29760.0
+newspaper,ΔΗΜΟΚΡΑΤΙΚΗ,ΔΩΔΕΚΑΝΗΣΟΥ,4900.0,4900.0,6076.0
+newspaper,ΔΙΑΒΗΜΑ,ΒΟΙΩΤΙΑΣ,1998.0,1998.0,2477.52
+newspaper,ΔΙΑΦΑΝΕΙΑ,ΚΟΖΑΝΗΣ,2000.0,2000.0,2480.0
+newspaper,ΔΡΟΜΟΣ ΤΗΣ ΑΡΙΣΤΕΡΑΣ,,2000.0,2000.0,2480.0
+newspaper,ΔΥΤΙΚΗ ΕΝΗΜΕΡΩΣΗ,ΑΤΤΙΚΗΣ,1000.0,1000.0,1240.0
+newspaper,ΕΒΔΟΜΗ ΕΒΔΟΜΑΔΙΑΙΑ,ΑΤΤΙΚΗΣ,2000.0,2000.0,2480.0
+newspaper,ΕΔΕΣΣΑΪΚΗ,ΠΕΛΛΑΣ,3000.0,3000.0,3720.0
+newspaper,ΕΘΝΙΚΗ ΗΧΩ,ΑΙΤ/ΝΙΑΣ,3600.0,3600.0,4464.0
+newspaper,ΕΘΝΟΣ ΚΥΡΙΑΚΗΣ,,60000.0,59643.0,73957.32
+newspaper,ΕΙΔΗΣΕΙΣ,ΚΙΛΚΙΣ,3000.0,3000.0,3720.0
+newspaper,ΕΚΔΟΣΗ,ΙΩΑΝΝΙΝΩΝ,2000.0,2000.0,2480.0
+newspaper,ΕΛΕΥΘΕΡΗ ΑΠΟΨΗ,ΡΟΔΟΠΗΣ,1998.0,1998.0,2477.52
+newspaper,ΕΛΕΥΘΕΡΗ ΘΡΑΚΗ,ΕΒΡΟΥ,4999.98,4999.98,6199.98
+newspaper,ΕΛΕΥΘΕΡΙΑ,ΙΩΑΝΝΙΝΩΝ,4000.0,4000.0,4960.0
+newspaper,ΕΛΕΥΘΕΡΙΑ,ΛΑΡΙΣΗΣ,20000.0,20000.0,24800.0
+newspaper,ΕΛΕΥΘΕΡΙΑ,ΜΕΣΣΗΝΙΑΣ,6000.0,6000.0,7440.0
+newspaper,ΕΛΕΥΘΕΡΙΑ ΣΕΡΡΩΝ,ΣΕΡΡΩΝ,3000.0,3000.0,3720.0
+newspaper,ΕΛΕΥΘΕΡΙΑ ΤΟΥ ΛΟΓΟΥ,ΚΑΒΑΛΑΣ,2000.0,2000.0,2480.0
+newspaper,ΕΛΕΥΘΕΡΟ ΒΗΜΑ,ΣΕΡΡΩΝ,3000.0,3000.0,3720.0
+newspaper,ΕΛΕΥΘΕΡΟ ΒΗΜΑ ΤΗΣ ΦΛΩΡΙΝΑΣ,ΦΛΩΡΙΝΑΣ,1000.0,1000.0,1240.0
+newspaper,ΕΜΠΡΟΣ,ΛΕΣΒΟΥ,2800.0,2800.0,3472.0
+newspaper,ΕΜΠΡΟΣ,ΞΑΝΘΗΣ,4000.0,4000.0,4960.0
+newspaper,ΕΜΠΡΟΣ ΝΑΥΠΑΚΤΟΥ,ΑΙΤ/ΝΙΑΣ,2000.0,2000.0,2480.0
+newspaper,ΕΝ ΔΕΛΦΟΙΣ,ΦΩΚΙΔΑΣ,1998.0,1998.0,2477.52
+newspaper,ΕΝΗΜΕΡΟΣ,ΚΑΒΑΛΑΣ,2000.0,2000.0,2480.0
+newspaper,ΕΝΗΜΕΡΩΣΗ,ΓΡΕΒΕΝΩΝ,3000.0,3000.0,3720.0
+newspaper,ΕΝΗΜΕΡΩΣΗ',ΙΩΑΝΝΙΝΩΝ,3000.0,3000.0,3720.0
+newspaper,ΕΝΗΜΕΡΩΣΗ,ΔΡΑΜΑΣ,1998.0,1998.0,2477.52
+newspaper,ΕΝΗΜΕΡΩΣΗ,ΗΛΕΙΑΣ,3000.0,3000.0,3720.0
+newspaper,ΕΝΗΜΕΡΩΣΗ,ΚΕΡΚΥΡΑΣ,3990.0,3990.0,4947.6
+newspaper,ΕΝΗΜΕΡΩΣΗ & ΑΓΓΕΛΙΕΣ,ΠΙΕΡΙΑΣ,3000.0,3000.0,3720.0
+newspaper,ΕΝΗΜΕΡΩΣΗ ΜΕΓΑΡΩΝ & ΔΥΤΙΚΗΣ ΑΤΤΙΚΗΣ,ΑΤΤΙΚΗΣ,3000.0,3000.0,3720.0
+newspaper,ΕΟΡΔΑΪΚΟΣ ΠΑΛΜΟΣ,ΚΟΖΑΝΗΣ,2000.0,2000.0,2480.0
+newspaper,ΕΠΙΚΑΙΡΑ ΕΒΔΟΜΑΔΙΑΙΑ,ΑΤΤΙΚΗΣ,2000.0,2000.0,2480.0
+newspaper,ΕΠΙΚΑΙΡΟΤΗΤΑ,ΚΑΡΔΙΤΣΑΣ,3200.0,3200.0,3968.0
+newspaper,ΕΠΙΚΑΙΡΟΤΗΤΑ ΔΥΤΙΚΗ ΑΤΤΙΚΗ,ΑΤΤΙΚΗΣ,4000.0,4000.0,4960.0
+newspaper,ΕΠΙΚΑΙΡΟΤΗΤΑ ΤΗΣ ΚΥΡΙΑΚΗΣ,ΚΑΡΔΙΤΣΑΣ,1800.0,1800.0,2232.0
+newspaper,ΕΠΙΣΗΜΑΝΣΕΙΣ,ΚΕΡΚΥΡΑΣ,2000.0,2000.0,2480.0
+newspaper,ΕΠΟΧΗ,,9600.0,9600.0,11904.0
+newspaper,ΕΠΤΑ ΗΜΕΡΕΣ,ΑΧΑΪΑΣ,1000.0,1000.0,1240.0
+newspaper,ΕΠΤΑ ΗΜΕΡΕΣ,ΘΕΣΣΑΛΟΝΙΚΗΣ,2000.0,2000.0,2480.0
+newspaper,ΕΠΤΑ ΗΜΕΡΕΣ,ΙΩΑΝΝΙΝΩΝ,2000.0,2000.0,2480.0
+newspaper,ΕΡΓΑΣΙΑ ΣΥΝ,ΔΡΑΜΑΣ,3000.0,3000.0,3720.0
+newspaper,ΕΡΕΥΝΑ,ΤΡΙΚΑΛΩΝ,6000.0,6000.0,7440.0
+newspaper,ΕΡΜΗΣ,ΖΑΚΥΝΘΟΥ,2000.0,2000.0,2480.0
+newspaper,ΕΣΤΙΑ,,15000.0,15000.0,18600.0
+newspaper,ΕΥΒΟΪΚΗ ΓΝΩΜΗ,ΕΥΒΟΙΑΣ,4000.0,4000.0,4960.0
+newspaper,ΕΥΒΟΪΚΟΣ ΤΥΠΟΣ,ΕΥΒΟΙΑΣ,3996.0,3996.0,4955.04
+newspaper,ΕΥΡΥΤΑΝΙΚΑ ΝΕΑ,ΕΥΡΥΤΑΝΙΑΣ,3000.0,3000.0,3720.0
+newspaper,ΕΥΡΥΤΑΝΙΚΟΣ ΠΑΛΜΟΣ,ΕΥΡΥΤΑΝΙΑΣ,3000.0,3000.0,3720.0
+newspaper,ΕΦΗΜΕΡΙΔΑ ΤΩΝ ΣΥΝΤΑΚΤΩΝ,,30000.0,29715.0,36846.6
+newspaper,Η ΓΝΩΜΗ (ΕΒΔΟΜΑΔΙΑΙΑ),ΑΧΑΪΑΣ,2600.0,2600.0,3224.0
+newspaper,Η ΩΡΑ ΤΗΣ ΦΩΚΙΔΑΣ,ΦΩΚΙΔΑΣ,2000.0,2000.0,2480.0
+newspaper,ΗΜΕΡΑ,ΖΑΚΥΝΘΟΥ,3000.0,3000.0,3720.0
+newspaper,ΗΜΕΡΗΣΙΑ,ΗΜΑΘΙΑΣ,3000.0,3000.0,3720.0
+newspaper,ΗΜΕΡΗΣΙΟΣ,ΚΕΦΑΛΟΝΙΑΣ,4000.0,4000.0,4960.0
+newspaper,ΗΜΕΡΗΣΙΟΣ ΑΙΓΙΟΧΟΣ,ΑΧΑΪΑΣ,7000.0,7000.0,8680.0
+newspaper,ΗΜΕΡΗΣΙΟΣ ΔΗΜΟΤΗΣ ΠΕΙΡΑΙΑ,ΑΤΤΙΚΗΣ,2000.0,2000.0,2480.0
+newspaper,ΗΠΕΙΡΩΤΙΚΟΣ ΑΓΩΝ,ΙΩΑΝΝΙΝΩΝ,4000.0,4000.0,4960.0
+newspaper,ΗΧΩ,ΦΛΩΡΙΝΑΣ,3000.0,3000.0,3720.0
+newspaper,ΗΧΩ ΤΗΣ ΑΡΤΑΣ,ΑΡΤΑΣ,3000.0,3000.0,3720.0
+newspaper,ΘΑΡΡΟΣ,ΚΟΖΑΝΗΣ,4000.0,4000.0,4960.0
+newspaper,ΘΑΡΡΟΣ,ΜΕΣΣΗΝΙΑΣ,6000.0,6000.0,7440.0
+newspaper,ΘΑΣΙΑΚΗ,ΚΑΒΑΛΑΣ,1998.0,1998.0,2477.52
+newspaper,ΘΕΜΑ,ΧΑΛΚΙΔΙΚΗΣ,1000.0,1000.0,1240.0
+newspaper,ΘΕΣΠΡΩΤΙΚΗ,ΘΕΣΠΡΩΤΙΑΣ,3000.0,3000.0,3720.0
+newspaper,ΘΕΣΠΡΩΤΩΝ ΔΙΑΒΟΥΛΕΥΣΗ,ΘΕΣΠΡΩΤΙΑΣ,1998.0,1998.0,2477.52
+newspaper,ΘΕΣΣΑΛΙΑ,ΜΑΓΝΗΣΙΑΣ,3600.0,3600.0,4464.0
+newspaper,ΘΕΣΣΑΛΙΑ ΤΗΣ ΔΕΥΤΕΡΑΣ,ΜΑΓΝΗΣΙΑΣ,2400.0,2400.0,2976.0
+newspaper,ΘΕΣΣΑΛΟΝΙΚΗ,ΘΕΣΣΑΛΟΝΙΚΗΣ,5000.0,5000.0,6200.0
+newspaper,ΘΡΑΚΗ,ΞΑΝΘΗΣ,3000.0,3000.0,3720.0
+newspaper,ΘΡΑΚΙΚΗ ΑΓΟΡΑ,ΡΟΔΟΠΗΣ,4000.0,4000.0,4960.0
+newspaper,ΘΡΙΑΣΙΟ ΔΥΤΙΚΗΣ ΑΤΤΙΚΗΣ,ΑΤΤΙΚΗΣ,2000.0,2000.0,2480.0
+newspaper,ΚΑΒΑΛΑ,ΚΑΒΑΛΑΣ,3000.0,3000.0,3720.0
+newspaper,ΚΑΘΗΜΕΡΙΝΑ ΝΕΑ,ΑΡΚΑΔΙΑΣ,3990.0,3990.0,4947.6
+newspaper,ΚΑΘΗΜΕΡΙΝΗ ΑΓΓΛΟΦΩΝΗ ΕΚΔΟΣΗ,,10500.0,10500.0,13020.0
+newspaper,ΚΑΘΗΜΕΡΙΝΗ ΚΥΡΙΑΚΗΣ,,100000.0,99500.0,123380.0
+newspaper,ΚΑΘΗΜΕΡΙΝΗ ΣΑΒΒΑΤΟΥ,,59500.0,59500.0,73780.0
+newspaper,ΚΑΡΦΙΤΣΑ,ΘΕΣΣΑΛΟΝΙΚΗΣ,15000.0,15000.0,18600.0
+newspaper,ΚΑΣΤΟΡΙΑΝΗ ΕΣΤΙΑ,ΚΑΣΤΟΡΙΑΣ,2000.0,2000.0,2480.0
+newspaper,ΚΕΡΚΙΔΑ,ΗΜΑΘΙΑΣ,1999.98,1998.0,2477.52
+newspaper,ΚΕΡΚΥΡΑ ΣΗΜΕΡΑ,ΚΕΡΚΥΡΑΣ,2000.0,2000.0,2480.0
+newspaper,ΚΕΦΑΛΑΙΟ,,10000.0,10000.0,12400.0
+newspaper,ΚΟΙΝΗ ΓΝΩΜΗ,ΚΥΚΛΑΔΩΝ,2900.0,2900.0,3596.0
+newspaper,ΚΟΡΙΝΘΙΑΚΗ,ΚΟΡΙΝΘΟΥ,3000.0,3000.0,3720.0
+newspaper,ΚΟΡΙΝΘΙΑΚΗ ΗΜΕΡΑ,ΚΟΡΙΝΘΟΥ,4000.0,4000.0,4960.0
+newspaper,ΚΟΣΜΟΣ,ΛΑΡΙΣΗΣ,2000.0,2000.0,2480.0
+newspaper,ΚΟΣΜΟΣ,ΑΧΑΪΑΣ,3000.0,3000.0,3720.0
+newspaper,ΚΟΣΜΟΣ ΤΗΣ ΕΝΗΜΕΡΩΣΗΣ,ΧΑΝΙΩΝ,3999.99,3999.0,4958.76
+newspaper,ΚΡΗΤΙΚΗ ΕΠΙΘΕΩΡΗΣΗ,ΡΕΘΥΜΝΟΥ,7000.0,7000.0,8680.0
+newspaper,ΚΥΚΛΑΔΙΚΗ,ΚΥΚΛΑΔΩΝ,4000.0,4000.0,4960.0
+newspaper,ΚΥΝΗΓΕΤΙΚΑ ΝΕΑ,,2000.0,2000.0,2480.0
+newspaper,ΛΑΚΩΝΙΚΟΣ ΤΥΠΟΣ,ΛΑΚΩΝΙΑΣ,2700.0,2700.0,3348.0
+newspaper,ΛΑΜΙΑΚΟΣ ΤΥΠΟΣ,ΦΘΙΩΤΙΔΑΣ,4800.0,4800.0,5952.0
+newspaper,ΛΑΟΣ,ΗΜΑΘΙΑΣ,3000.0,3000.0,3720.0
+newspaper,ΛΑΟΣ ΤΟΥ ΑΛΜΥΡΟΥ,ΜΑΓΝΗΣΙΑΣ,2000.0,2000.0,2480.0
+newspaper,ΛΟΓΟΣ,,6000.0,6000.0,7440.0
+newspaper,ΜΑΓΝΗΣΙΑ,ΜΑΓΝΗΣΙΑΣ,3000.0,3000.0,3720.0
+newspaper,ΜΑΚΕΔΟΝΙΑ,ΘΕΣΣΑΛΟΝΙΚΗΣ,17500.0,17500.0,21700.0
+newspaper,ΜΑΝΙΦΕΣΤΟ,ΒΟΙΩΤΙΑΣ,1999.95,1999.98,2479.98
+newspaper,ΜΑΧΗΤΗΣ,ΑΙΤ/ΝΙΑΣ,4000.0,4000.0,4960.0
+newspaper,ΜΑΧΗΤΗΣ,ΑΡΤΑΣ,2880.0,2880.0,3571.2
+newspaper,ΜΑΧΗΤΗΣ,ΓΡΕΒΕΝΩΝ,2000.0,2000.0,2480.0
+newspaper,ΜΑΧΗΤΗΣ,ΚΙΛΚΙΣ,2000.0,2000.0,2480.0
+newspaper,ΜΑΧΗΤΗΣ,ΞΑΝΘΗΣ,4000.0,4000.0,4960.0
+newspaper,ΜΕΓΑΡΙΚΟΣ ΤΥΠΟΣ,ΑΤΤΙΚΗΣ,1000.0,1000.0,1240.0
+newspaper,ΜΕΘΟΡΙΟΣ,ΕΒΡΟΥ,1000.0,1000.0,1240.0
+newspaper,ΜΕΣΟΛΟΓΓΙΤΙΚΑ ΧΡΟΝΙΚΑ,ΑΙΤ/ΝΙΑΣ,1500.0,1500.0,1860.0
+newspaper,ΜΕΣΣΗΝΙΑΚΟΣ ΛΟΓΟΣ,ΜΕΣΣΗΝΙΑΣ,2000.0,2000.0,2480.0
+newspaper,ΜΕΤΕΩΡΑ,ΤΡΙΚΑΛΩΝ,750.0,750.0,930.0
+newspaper,ΜΠΑΜ,,15000.0,15000.0,18600.0
+newspaper,ΝΑΥΤΕΜΠΟΡΙΚΗ,,6000.0,6000.04,7440.05
+newspaper,ΝΕΑ ΕΓΝΑΤΙΑ,ΚΑΒΑΛΑΣ,3990.0,3990.0,4947.6
+newspaper,ΝΕΑ ΚΡΗΤΗ,ΗΡΑΚΛΕΙΟΥ,9999.96,9999.96,12399.95
+newspaper,ΝΕΑ ΠΟΡΕΙΑ,ΣΕΡΡΩΝ,2000.0,2000.0,2480.0
+newspaper,ΝΕΑ ΤΗΣ ΒΟΙΩΤΙΑΣ,ΒΟΙΩΤΙΑΣ,1995.0,1995.0,2473.8
+newspaper,ΝΕΑ ΤΗΣ ΛΕΣΒΟΥ,ΛΕΣΒΟΥ,3000.0,3000.0,3510.0
+newspaper,ΝΕΟΙ ΑΓΩΝΕΣ,ΙΩΑΝΝΙΝΩΝ,4000.0,4000.0,4960.0
+newspaper,ΝΕΟΙ ΚΑΙΡΟΙ,ΗΜΑΘΙΑΣ,2000.0,2000.0,2480.0
+newspaper,ΝΕΟΙ ΟΡΙΖΟΝΤΕΣ,ΧΑΝΙΩΝ,5000.0,5000.0,6200.0
+newspaper,ΝΕΟΣ ΑΓΩΝΑΣ,ΚΑΡΔΙΤΣΑΣ,7999.2,8000.0,9920.0
+newspaper,ΝΙΓΡΙΤΑ,ΣΕΡΡΩΝ,2000.0,2000.0,2480.0
+newspaper,ΞΑΝΘΗ SPORT,ΞΑΝΘΗΣ,1468.0,1468.0,1820.32
+newspaper,ΞΥΡΑΦΙ,ΚΑΒΑΛΑΣ,1000.0,1000.0,1240.0
+newspaper,Ο ΛΟΓΟΣ ΤΩΝ ΚΥΚΛΑΔΩΝ,ΚΥΚΛΑΔΩΝ,2000.0,2000.0,2480.0
+newspaper,ΟΔΟΣ,ΚΑΣΤΟΡΙΑΣ,1000.0,1000.0,1240.0
+newspaper,ΟΛΥΜΠΙΟ ΒΗΜΑ,ΠΙΕΡΙΑΣ,6000.0,6000.0,7440.0
+newspaper,ΟΡΙΖΟΝΤΕΣ,ΚΑΣΤΟΡΙΑΣ,2000.0,2000.0,2480.0
+newspaper,ΠΑΛΜΟΣ ΑΙΤ/ΙΑΣ,ΑΙΤ/ΝΙΑΣ,1800.0,1800.0,2232.0
+newspaper,ΠΑΛΜΟΣ ΓΛΥΦΑΔΑΣ,ΑΤΤΙΚΗΣ,1000.0,1000.0,1240.0
+newspaper,ΠΑΝΣΕΡΡΑΪΚΗ,ΣΕΡΡΩΝ,3000.0,3000.0,3720.0
+newspaper,ΠΑΡΑΠΟΛΙΤΙΚΑ,,60000.0,60000.0,74400.0
+newspaper,ΠΑΡΑΣΚΗΝΙΟ,,20000.0,20000.0,24800.0
+newspaper,ΠΑΡΑΤΗΡΗΤΗΣ,ΗΜΑΘΙΑΣ,1000.0,1000.0,1240.0
+newspaper,ΠΑΡΑΤΗΡΗΤΗΣ,ΡΟΔΟΠΗΣ,4000.0,4000.0,4960.0
+newspaper,ΠΑΡΑΤΗΡΗΤΗΣ,ΣΕΡΡΩΝ,3000.0,3000.0,3720.0
+newspaper,ΠΑΤΡΙΣ,ΗΡΑΚΛΕΙΟΥ,9999.96,9999.96,12399.95
+newspaper,ΠΑΤΡΙΣ,ΗΛΕΙΑΣ,10000.0,10000.0,12400.0
+newspaper,ΠΕΛΟΠΟΝΝΗΣΟΣ,ΑΧΑΪΑΣ,8000.0,8000.0,9920.0
+newspaper,ΠΕΛΟΠΟΝΝΗΣΟΣ ΔΕΥΤΕΡΑΣ,ΑΧΑΪΑΣ,2000.0,2000.0,2480.0
+newspaper,ΠΕΡΙΣΚΟΠΙΟ,ΡΟΔΟΠΗΣ,3000.0,3000.0,3720.0
+newspaper,ΠΟΛΙΤΗΣ,ΗΜΑΘΙΑΣ,4000.0,4000.0,4960.0
+newspaper,ΠΟΛΙΤΗΣ,ΧΙΟΥ,3000.0,3000.0,3510.0
+newspaper,ΠΟΛΙΤΙΚΑ,ΛΕΣΒΟΥ,1000.0,1000.0,1170.0
+newspaper,ΠΟΛΙΤΙΣΤΙΚΟ ΒΗΜΑ ΦΕΝΕΟΥ,ΚΟΡΙΝΘΟΥ,1000.0,1000.0,1240.0
+newspaper,ΠΡΑΣΙΝΗ,,5000.0,5000.0,6200.0
+newspaper,ΠΡΕΒΕΖΑ,ΠΡΕΒΕΖΑΣ,2000.0,2000.0,2480.0
+newspaper,ΠΡΟΟΔΟΣ,ΣΕΡΡΩΝ,3000.0,3000.0,3720.0
+newspaper,ΠΡΩΪΝΑ ΝΕΑ,ΙΩΑΝΝΙΝΩΝ,4000.0,4000.0,4960.0
+newspaper,ΠΡΩΪΝΑ ΝΕΑ,ΦΘΙΩΤΙΔΑΣ,1600.0,1600.0,1984.0
+newspaper,ΠΡΩΪΝΗ,ΓΡΕΒΕΝΩΝ,4000.0,4000.0,4960.0
+newspaper,ΠΡΩΪΝΗ,ΗΛΕΙΑΣ,1998.0,1998.0,2477.52
+newspaper,ΠΡΩΪΝΗ,ΚΑΒΑΛΑΣ,4000.0,4000.0,4960.0
+newspaper,ΠΡΩΪΝΗ,ΚΙΛΚΙΣ,3000.0,3000.0,3720.0
+newspaper,ΠΡΩΪΝΗ,ΚΟΖΑΝΗΣ,2000.0,2000.0,2480.0
+newspaper,ΠΡΩΪΝΗ ΓΝΩΜΗ (ΗΜΕΡΗΣΙΑ),ΑΧΑΪΑΣ,3900.0,3900.0,4836.0
+newspaper,ΠΡΩΪΝΟΣ ΛΟΓΟΣ,ΙΩΑΝΝΙΝΩΝ,7000.0,7000.0,8680.0
+newspaper,ΠΡΩΪΝΟΣ ΛΟΓΟΣ,ΚΟΖΑΝΗΣ,2000.0,2000.0,2480.0
+newspaper,ΠΡΩΪΝΟΣ ΛΟΓΟΣ,ΤΡΙΚΑΛΩΝ,5000.0,5000.0,6200.0
+newspaper,ΠΡΩΪΝΟΣ ΜΟΡΙΑΣ,ΑΡΚΑΔΙΑΣ,2000.0,2000.0,2480.0
+newspaper,ΠΡΩΪΝΟΣ ΤΥΠΟΣ,ΔΡΑΜΑΣ,3000.0,3000.0,3720.0
+newspaper,ΠΡΩΪΝΟΣ ΤΥΠΟΣ,ΚΑΡΔΙΤΣΑΣ,4998.0,4998.0,6197.52
+newspaper,ΠΡΩΤΑΘΛΗΤΗΣ,,8800.0,8800.0,10912.0
+newspaper,ΠΡΩΤΗ,ΑΧΑΪΑΣ,3990.0,3990.0,4947.6
+newspaper,ΠΡΩΤΗ,ΗΛΕΙΑΣ,3000.0,3000.0,3720.0
+newspaper,ΠΡΩΤΟ ΘΕΜΑ,,100000.0,100000.0,124000.0
+newspaper,ΠΤΟΛΕΜΑΙΟΣ,ΚΟΖΑΝΗΣ,5000.0,5000.0,6200.0
+newspaper,ΡΕΘΕΜΝΙΩΤΙΚΑ ΝΕΑ,ΡΕΘΥΜΝΟΥ,6000.0,6000.0,7440.0
+newspaper,ΡΕΘΕΜΝΟΣ,ΡΕΘΥΜΝΟΥ,4800.0,4800.0,5952.0
+newspaper,ΡΙΖΟΣΠΑΣΤΗΣ,,10500.0,10500.0,13020.0
+newspaper,ΡΟΔΙΑΚΗ,ΔΩΔΕΚΑΝΗΣΟΥ,7994.0,7994.0,9912.56
+newspaper,ΣΑΜΙΑΚΟ ΒΗΜΑ,ΣΑΜΟΥ,1600.0,1600.0,1872.0
+newspaper,ΣΕΛΙΝΙΩΤΙΚΑ ΝΕΑ,ΧΑΝΙΩΝ,3000.0,3000.0,3720.0
+newspaper,ΣΕΝΤΡΑ,ΚΑΣΤΟΡΙΑΣ,1800.0,1800.0,2232.0
+newspaper,ΣΕΡΡΑΪΚΟ ΘΑΡΡΟΣ,ΣΕΡΡΩΝ,3000.0,3000.0,3720.0
+newspaper,ΣΗΜΕΡΙΝΗ,ΣΕΡΡΩΝ,3000.0,3000.0,3720.0
+newspaper,ΣΤΑΘΜΟΣ ΣΤΗΝ ΕΝΗΜΕΡΩΣΗ,ΔΩΔΕΚΑΝΗΣΟΥ,2000.0,2000.0,2340.0
+newspaper,ΣΤΟ ΚΑΡΦΙ,,12000.0,12000.0,14880.0
+newspaper,ΣΥΜΒΟΥΛΟΣ,ΑΧΑΪΑΣ,2000.0,2000.0,2480.0
+newspaper,ΣΥΝΕΙΔΗΣΗ,ΑΤΤΙΚΗΣ,3000.0,3000.0,3720.0
+newspaper,ΣΥΝΕΙΔΗΣΗ,ΑΙΤ/ΝΙΑΣ,5000.0,5000.0,6200.0
+newspaper,ΣΧΕΔΙΑ,ΑΤΤΙΚΗΣ,3000.0,3000.0,3720.0
+newspaper,ΤΑ ΝΕΑ Σ/Κ,,63000.0,63000.0,78120.0
+newspaper,ΤΑ ΝΕΑ ΤΗΣ ΑΛΜΩΠΙΑΣ,ΠΕΛΛΑΣ,1000.0,1000.0,1240.0
+newspaper,ΤΑ ΝΕΑ ΤΗΣ ΗΠΕΙΡΟΥ,ΙΩΑΝΝΙΝΩΝ,3000.0,3000.0,3720.0
+newspaper,ΤΑ ΝΕΑ ΤΗΣ ΛΕΥΚΑΔΑΣ,ΛΕΥΚΑΔΑΣ,2700.0,2700.0,3348.0
+newspaper,ΤΑΧΥΔΡΟΜΟΣ,ΑΡΤΑΣ,2000.0,2000.0,2480.0
+newspaper,ΤΑΧΥΔΡΟΜΟΣ,ΜΑΓΝΗΣΙΑΣ,4998.0,4998.0,6197.52
+newspaper,ΤΙΤΑΝΗ,ΘΕΣΠΡΩΤΙΑΣ,1998.0,1998.0,2477.52
+newspaper,ΤΟ ΑΡΘΡΟ,,6300.0,6300.0,7812.0
+newspaper,ΤΟ ΠΑΡΟΝ,,20000.0,20000.0,24800.0
+newspaper,ΤΟ ΠΟΝΤΙΚΙ,,21000.0,21000.0,26040.0
+newspaper,ΤΟΛΜΗ,ΞΑΝΘΗΣ,1998.0,1998.0,2477.52
+newspaper,ΤΟΜΗ ΣΤΗΝ ΕΝΗΜΕΡΩΣΗ,ΠΡΕΒΕΖΑΣ,2000.0,2000.0,2480.0
+newspaper,ΤΟΠΙΚΗ,ΠΙΕΡΙΑΣ,1500.0,1500.0,1860.0
+newspaper,ΤΟΠΙΚΗ ΦΩΝΗ,ΠΡΕΒΕΖΑΣ,3000.0,3000.0,3720.0
+newspaper,ΤΥΠΟΣ ΤΗΣ ΑΙΓΙΑΛΕΙΑΣ,ΑΧΑΪΑΣ,887.5,887.5,1100.5
+newspaper,ΤΥΠΟΣ ΤΗΣ ΘΕΣΣΑΛΟΝΙΚΗΣ,ΘΕΣΣΑΛΟΝΙΚΗΣ,5000.0,5000.0,6200.0
+newspaper,ΤΥΠΟΣ ΤΗΣ ΚΥΡΙΑΚΗΣ,,80000.0,80000.0,99200.0
+newspaper,ΤΥΠΟΣ ΤΗΣ ΧΑΛΚΙΔΙΚΗΣ,ΧΑΛΚΙΔΙΚΗΣ,3000.0,3000.0,3720.0
+newspaper,ΦΙΛΕΛΕΥΘΕΡΟΣ,,60000.0,60000.0,74400.0
+newspaper,ΦΩΝΗ ΓΡΕΒΕΝΩΝ,ΓΡΕΒΕΝΩΝ,2000.0,2000.0,2480.0
+newspaper,ΦΩΝΗ ΜΑΛΕΒΙΖΙΟΥ,ΗΡΑΚΛΕΙΟΥ,1999.0,1999.0,2478.76
+newspaper,ΦΩΝΗ ΝΑΟΥΣΗΣ,ΗΜΑΘΙΑΣ,3000.0,3000.0,3720.0
+newspaper,ΦΩΝΗ ΤΗΣ ΒΙΣΑΛΤΙΑΣ,ΣΕΡΡΩΝ,1998.0,1998.0,2477.52
+newspaper,ΦΩΝΗ ΤΗΣ ΚΑΣΤΟΡΙΑΣ,ΚΑΣΤΟΡΙΑΣ,3000.0,3000.0,3720.0
+newspaper,ΦΩΝΗ ΤΗΣ ΚΟΡΙΝΘΙΑΣ,ΚΟΡΙΝΘΟΥ,1000.0,1000.0,1240.0
+newspaper,ΦΩΝΗ ΤΗΣ ΞΑΝΘΗΣ,ΞΑΝΘΗΣ,1900.0,1900.0,2356.0
+newspaper,ΦΩΝΗ ΤΗΣ ΦΛΩΡΙΝΑΣ,ΦΛΩΡΙΝΑΣ,2500.0,2500.0,3100.0
+newspaper,ΦΩΝΗ ΤΟΥ ΝΕΣΤΟΥ,ΞΑΝΘΗΣ,3000.0,3000.0,3720.0
+newspaper,ΦΩΣ ΤΩΝ ΣΠΟΡ,,6600.0,6600.0,8184.0
+newspaper,ΧΑΝΙΩΤΙΚΑ ΝΕΑ,ΧΑΝΙΩΝ,9999.92,9996.0,12395.04
+newspaper,ΧΙΩΤΙΚΗ ΔΙΑΦΑΝΕΙΑ,ΧΙΟΥ,600.0,600.0,702.0
+newspaper,ΧΡΟΝΙΚΑ,ΓΡΕΒΕΝΩΝ,1920.0,1920.0,2380.8
+newspaper,ΧΡΟΝΙΚΑ ΤΗΣ ΔΡΑΜΑΣ,ΔΡΑΜΑΣ,3000.0,3000.0,3720.0
+newspaper,ΧΡΟΝΟΣ,ΚΟΖΑΝΗΣ,1950.0,1950.0,2418.0
+newspaper,ΧΡΟΝΟΣ,ΡΟΔΟΠΗΣ,4000.0,4000.0,4960.0
+newspaper,ΧΤΥΠΟΣ ΕΒΔΟΜΑΔΙΑΙΑ,ΑΤΤΙΚΗΣ,1000.0,1000.0,1240.0
+newspaper,ΩΡΑ ΤΩΝ ΣΠΟΡ,,3750.0,3750.0,4650.0
+website,ENIMEROSI-NEWS.GR,,1000.0,1000.0,1240.0
+website,OTAVOICE.GR,,3000.0,3000.0,3720.0
+website,RP.GR,,2000.0,2000.0,2480.0
+website,1077STATUSFM.GR,,5000.0,5000.0,6200.0
+website,12VIMA.GR,,1000.0,1000.0,1240.0
+website,24ORESIMATHIA.GR,,1000.0,1000.0,1240.0
+website,4TROXOI.GR,,2000.0,2000.0,2480.0
+website,ACTION24.GR,,40000.0,40000.0,49600.0
+website,ADESMEFTI-THRAKIS.BLOGSPOT.COM,,1000.0,1000.0,1240.0
+website,ADESMEUTI.GR,,1000.0,1000.0,1240.0
+website,AEGEANEWS.GR,,1000.0,1000.0,1240.0
+website,AERASNEWS.GR,,1000.0,1000.0,1240.0
+website,AGONASKRITIS.GR,,1500.0,1500.0,1860.0
+website,AGRINIOCULTURE.GR,,1000.0,1000.0,1240.0
+website,AGRINIONEWS.GR,,1500.0,1500.0,1860.0
+website,AGRINIOPRESS.GR,,1500.0,1500.0,1860.0
+website,AGRINIOTIMES.GR,,1000.0,1000.0,1240.0
+website,AGRINIOVOICE.GR,,1500.0,1500.0,1860.0
+website,AGRONEWS.GR,,5000.0,5000.0,6200.0
+website,AIGIALEIAPRESS.COM,,1000.0,1000.0,1240.0
+website,AIXMINEWS.GR,,1000.0,1000.0,1240.0
+website,ALEXANDREIA-GIDAS.GR,,1000.0,1000.0,1240.0
+website,ALEXANDRIAMOU.GR,,1000.0,1000.0,1240.0
+website,ALITHIA.GR,,1000.0,1000.0,1240.0
+website,ALITHIANEWS.GR,,1000.0,1000.0,1240.0
+website,ALMYROS.GR,,1000.0,1000.0,1240.0
+website,ALPHAFM.GR,,1000.0,1000.0,1240.0
+website,ALPHAFREEPRESS.GR,,5000.0,5000.0,6200.0
+website,ALPHA-NEWS.GR,,1000.0,1000.0,1240.0
+website,ALPHATV.GR,,100000.0,100000.0,124000.0
+website,AMNA.GR,,15000.0,15000.0,18600.0
+website,ANAGNOSTIS.ORG,,1000.0,1000.0,1240.0
+website,ANDRO.GR,,5000.0,5000.0,6200.0
+website,ANEX.GR,,1000.0,1000.0,1240.0
+website,ANTENNA.GR,,100000.0,100000.0,124000.0
+website,ANTILALOSPRESS.GR,,1000.0,1000.0,1240.0
+website,APELA.GR,,1000.0,1000.0,1240.0
+website,APOKALIPTIKALIVE.GR,,4000.0,0.0,0.0
+website,APOPSEIS.GR,,2000.0,2000.0,2480.0
+website,APOPSILIVE.GR,,1000.0,1000.0,1240.0
+website,APOTIS4STIS5.COM,,5000.0,5000.0,6200.0
+website,ARCADIA938.GR,,1000.0,1000.0,1240.0
+website,ARCADIAPORTAL.GR,,1000.0,1000.0,1240.0
+website,ARGIRO.GR,,12500.0,12500.0,15500.0
+website,ARGOLIKESEIDHSEIS.GR,,1000.0,1000.0,1240.0
+website,ARGOLIKIANAPTIKSI.GR,,1000.0,1000.0,1240.0
+website,ARIDAIANEWS.BLOGSPOT.COM,,1000.0,1000.0,1240.0
+website,ASTRATV.GR,,1000.0,1000.0,1240.0
+website,ATHENSDEEJAY.GR,,5000.0,5000.0,6200.0
+website,ATHENSREVIEWOFBOOKS.COM,,5000.0,5000.0,6200.0
+website,ATHENSVOICE.GR,,180000.0,180000.0,223200.0
+website,ATHINORAMA.GR,,10000.0,10000.0,12400.0
+website,ATPREVEZA.GR,,1000.0,1000.0,1240.0
+website,AVOPOLIS.GR,,10000.0,10000.0,12400.0
+website,AXIANEWS.GR,,4000.0,4000.0,4960.0
+website,BACKSTAGE24.GR,,1000.0,1000.0,1240.0
+website,BANKNEWS.GR,,2000.0,2000.0,2480.0
+website,BANKS.COM.GR,,6700.0,6700.0,8308.0
+website,BANKWARS.GR,,2000.0,2000.0,2480.0
+website,BEST926.GR,,5000.0,5000.0,6200.0
+website,BEST-TV.GR,,1000.0,1000.0,1240.0
+website,BIGBUSINESS.GR,,3000.0,3000.0,3720.0
+website,BISKOTTO.GR,,1000.0,1000.0,1240.0
+website,BLUESKYTV.GR,,40000.0,40000.0,49600.0
+website,BOOKSJOURNAL.GR,,7000.0,7000.0,8680.0
+website,BORO.GR,,5000.0,5000.0,6200.0
+website,BOVARY.GR,,100000.0,100000.0,124000.0
+website,BUSINESSDAILY.GR,,15000.0,15000.0,18600.0
+website,BUSINESSENERGY.GR,,5000.0,5000.0,6200.0
+website,BUSINESSNEWS.GR,,10000.0,10000.0,12400.0
+website,CAPITAL.GR,,120000.0,120000.0,148800.0
+website,CHANIALIVETV.GR,,1500.0,1500.0,1860.0
+website,CHANIANEWS.GR,,2000.0,2000.0,2480.0
+website,CHIOSPRESS.GR,,1000.0,1000.0,1240.0
+website,CNN.GR,,100000.0,100000.0,124000.0
+website,CORFUPRESS.COM,,1000.0,1000.0,1240.0
+website,CORFUTVNEWS.GR,,1000.0,1000.0,1240.0
+website,CRETA24.GR,,1500.0,1500.0,1860.0
+website,CRETALIVE.GR,,1500.0,1500.0,1860.0
+website,CRETAPOST.GR,,1500.0,1500.0,1860.0
+website,CRETAVOICE.GR,,2000.0,2000.0,2480.0
+website,CRISISMONITOR.GR,,2000.0,2000.0,2480.0
+website,CULTURENOW.GR,,2000.0,2000.0,2480.0
+website,CYCLADES24.GR,,1000.0,1000.0,1240.0
+website,DAILYPOST.GR,,7500.0,7500.0,9300.0
+website,DEALNEWS.GR,,5000.0,5000.0,6200.0
+website,DEFENCE-POINT.GR,,10000.0,10000.0,12400.0
+website,DESTANEA.COM,,1000.0,1000.0,1000.0
+website,DETE.GR,,3000.0,3000.0,3720.0
+website,DIAFANEIA.COM,,1000.0,1000.0,1240.0
+website,DIAVOULEUSI.GR,,1000.0,1000.0,1240.0
+website,DIDYMOTEICHO.NET,,1000.0,0.0,0.0
+website,DIESI.GR,,15000.0,15000.0,18600.0
+website,DIFERNEWS.GR,,2000.0,2000.0,2480.0
+website,DIKAIOLOGITIKA.GR,,20000.0,20000.0,24800.0
+website,DIKASTIKO.GR,,10000.0,10000.0,12400.0
+website,DIMARXOS.GR,,5000.0,5000.0,5000.0
+website,DIMOKRATIKI.GR,,2000.0,2000.0,2480.0
+website,DIMOPRASION.GR,,1000.0,1000.0,1240.0
+website,DIMOSDATA.GR,,1000.0,1000.0,1240.0
+website,DIMOSIO.GR,,5000.0,5000.0,6200.0
+website,DINAMIPROSFORAS.GR,,4000.0,4000.0,4960.0
+website,DOWNTOWN.GR,,5000.0,5000.0,6200.0
+website,DRAMINI.GR,,2000.0,2000.0,2480.0
+website,DROMOSFM.GR,,15000.0,15000.0,18600.0
+website,DRT915.GR,,1000.0,1000.0,1240.0
+website,DZNEWS.GR,,1000.0,1000.0,1240.0
+website,EASY972.GR,,20000.0,20000.0,24800.0
+website,ECHOFLORINA.GR,,1000.0,1000.0,1240.0
+website,ECONOMICO.GR,,5000.0,5000.0,6200.0
+website,ECONOMISTAS.GR,,50000.0,50000.0,62000.0
+website,ECONOMIX.GR,,10000.0,10000.0,12400.0
+website,ECOZEN.GR,,1000.0,1000.0,1240.0
+website,E-EVROS.GR,,2000.0,2000.0,2480.0
+website,EFIMERIDAKAVALA.GR,,1000.0,1000.0,1240.0
+website,EFSYN.GR,,10000.0,10000.0,12400.0
+website,EFTHIA.GR,,2000.0,2000.0,2480.0
+website,EGNOMI.GR,,1000.0,1000.0,1240.0
+website,E-GORTYNIA.GR,,1800.0,1800.0,2232.0
+website,EIDISIS.GR,,1000.0,1000.0,1240.0
+website,E-IGOUMENITSA.GR,,1000.0,1000.0,1240.0
+website,EIRINIKA.GR,,5000.0,5000.0,6200.0
+website,EKATHIMERINI.COM,,10000.0,10000.0,12400.0
+website,EKORINTHOS.GR,,1000.0,1000.0,1240.0
+website,EKRITI.GR,,3000.0,3000.0,3720.0
+website,ELASSONANEWS.GR,,1000.0,1000.0,1240.0
+website,ELCULTURE.GR,,5000.0,5000.0,6200.0
+website,ELE.GR,,1000.0,1000.0,1240.0
+website,ELEFTHERIA.GR,,3000.0,3000.0,3720.0
+website,ELEFTHERIALOGOU.GR,,1000.0,1000.0,1240.0
+website,ELEFTHERIAONLINE.GR,,1000.0,1000.0,1240.0
+website,ELEFTHERIFONI.GR,,1000.0,1000.0,1240.0
+website,ELEFTHEROSTYPOS.GR,,20000.0,20000.0,24800.0
+website,ELLE.GR,,8000.0,8000.0,9920.0
+website,ELLINES.COM,,5000.0,5000.0,6200.0
+website,ELLINISMOS-ORTHODOXIA.GR,,3000.0,3000.0,3720.0
+website,E-MAISTROS.GR,,1000.0,1000.0,1240.0
+website,EMEA.GR,,5000.0,5000.0,6200.0
+website,E-MESARA.GR,,1000.0,1000.0,1240.0
+website,EMPROSNET.GR,,1000.0,1000.0,1240.0
+website,EMVOLOS.GR,,1000.0,1000.0,1240.0
+website,ENANEWS.GR,,1000.0,1000.0,1240.0
+website,ENDELFOISONLINE.GR,,1000.0,1000.0,1240.0
+website,ENERGYPRESS.GR,,3000.0,3000.0,3720.0
+website,ENIKOS.GR,,25000.0,25000.0,31000.0
+website,ENIMEROSI.COM,,1000.0,1000.0,1240.0
+website,ENIMEROSI24.GR,,5000.0,5000.0,6200.0
+website,ENLEFKO.FM,,10000.0,10000.0,12400.0
+website,ENPEL.GR,,500.0,500.0,620.0
+website,ENTERMESSINIA.GR,,1000.0,1000.0,1240.0
+website,ENTOSPOLIS.GR,,1500.0,1500.0,1860.0
+website,E-OTA.GR,,2000.0,2000.0,2480.0
+website,EPARXIES.GR,,1000.0,1000.0,1240.0
+website,EPILOGES.TV,,2000.0,2000.0,2480.0
+website,EPIRUSGATE.BLOGSPOT.COM,,1000.0,1000.0,1240.0
+website,EPIRUSONLINE.GR,,2000.0,2000.0,2480.0
+website,EPIRUSPOST.GR,,1000.0,1000.0,1240.0
+website,EPIXEIRO.GR,,10000.0,10000.0,12400.0
+website,EPTANEWS.GR,,1000.0,1000.0,1240.0
+website,E-PTOLEMEOS.GR,,2500.0,2500.0,3100.0
+website,E-RADIO.GR,,16000.0,16000.0,19840.0
+website,EREPORTAZ.GR,,5000.0,5000.0,6200.0
+website,ERGASIA-PRESS.GR,,1000.0,1000.0,1240.0
+website,ERMISILIAS.GR,,1000.0,1000.0,1240.0
+website,ERMISNEWS.GR,,1000.0,1000.0,1240.0
+website,ERT.GR,,40000.0,40000.0,49600.0
+website,ESQUIRE.COM.GR,,2000.0,2000.0,2480.0
+website,E-THESSALIA.GR,,1000.0,1000.0,1240.0
+website,ETHNOS.GR,,25000.0,25000.0,31000.0
+website,EURACTIV.GR,,5000.0,5000.0,6200.0
+website,EURO2DAY.GR,,30000.0,30000.0,37200.0
+website,EUROHOOPS.NET,,10000.0,10000.0,12400.0
+website,EVIATOPBLOG.GR,,1000.0,1000.0,1240.0
+website,EVIAZOOM.GR,,1000.0,1000.0,1240.0
+website,EVIMA.GR,,1000.0,1000.0,1240.0
+website,E-VIMA.GR,,1000.0,1000.0,1240.0
+website,EVOIKOSTIPOS.GR,,1000.0,1000.0,1240.0
+website,E-VOLOS.GR,,1000.0,1000.0,1240.0
+website,EVROS24.GR,,1500.0,1500.0,1860.0
+website,EVROS-NEWS.GR,,4000.0,4000.0,4960.0
+website,EVRYTANIKA.GR,,1000.0,1000.0,1240.0
+website,EVRYTANIKOSPALMOS.GR,,1000.0,1000.0,1240.0
+website,EXPERTNEWS.GR,,5000.0,5000.0,6200.0
+website,FILODIMOS.GR,,1500.0,1500.0,1860.0
+website,FIMOTRO.GR,,5000.0,5000.0,6200.0
+website,FLASHNEWS.GR,,3500.0,3500.0,4340.0
+website,FOCUS-RADIO.GR,,1000.0,1000.0,1240.0
+website,FOKIDANEWS.GR,,1000.0,1000.0,1240.0
+website,FONIKASTORIAS.GR,,1000.0,1000.0,1240.0
+website,FONIMALEVIZIOU.GR,,1000.0,1000.0,1240.0
+website,FONINAOUSIS.GR,,1000.0,1000.0,1240.0
+website,FONIRODOPIS.GR,,1000.0,1000.0,1240.0
+website,FONI-VISALTIAS.GR,,1000.0,1000.0,1240.0
+website,FONOGRAFOS.NET,,500.0,500.0,620.0
+website,FOREIGNAFFAIRS.GR,,10000.0,10000.0,12400.0
+website,FORTUNEGREECE.COM,,5000.0,5000.0,6200.0
+website,FOUIT.GR,,1000.0,1000.0,1240.0
+website,FPRESS.GR,,10000.0,10000.0,12400.0
+website,FREESUNDAY.GR,,10000.0,10000.0,12400.0
+website,GARGALIANOIONLINE.GR,,2000.0,2000.0,2480.0
+website,GAZZETTA.GR,,37000.0,37000.0,45880.0
+website,GLOW.GR,,5000.0,5000.0,6200.0
+website,GLYKOULI.GR,,5000.0,5000.0,6200.0
+website,GNOMIARTAS.GR,,1000.0,1000.0,1240.0
+website,GNOMIP.GR,,2000.0,2000.0,2480.0
+website,GOODNET.GR,,1500.0,1500.0,1500.0
+website,GOSSIP-TV.GR,,25000.0,25000.0,31000.0
+website,GR.ASKMEN.COM,,5000.0,5000.0,6200.0
+website,GR.HELLOMAGAZINE.COM,,2000.0,2000.0,2480.0
+website,GREEKNEWSONLINE.COM,,10000.0,10000.0,10000.0
+website,GREVENAMEDIA.GR,,1000.0,1000.0,1240.0
+website,GREVENIOTIS.GR,,1500.0,1500.0,1860.0
+website,GRTIMES.GR,,2000.0,2000.0,2480.0
+website,HALKIDIKIFOCUS.GR,,1000.0,1000.0,1240.0
+website,HALKIDIKINEWS.GR,,1000.0,1000.0,1240.0
+website,HALKIDIKIPOST.GR,,1000.0,1000.0,1240.0
+website,HALKIDIKIVOICE.GR,,1000.0,1000.0,1240.0
+website,HANIA.NEWS,,2000.0,2000.0,2480.0
+website,HANIOTIKA-NEA.GR,,2000.0,2000.0,2480.0
+website,HEALTHMAG.GR,,5000.0,5000.0,6200.0
+website,HEALTHREPORTAZ.GR,,5000.0,5000.0,6200.0
+website,HEALTHVIEW.GR,,5000.0,5000.0,6200.0
+website,HEALTHWEB.GR,,3000.0,3000.0,3720.0
+website,HELLASJOURNAL.COM,,20000.0,20000.0,20000.0
+website,HIT889.GR,,10000.0,10000.0,12400.0
+website,HUFFINGTONPOST.GR,,50000.0,50000.0,62000.0
+website,HXONEWS.GR,,2500.0,2500.0,3100.0
+website,IAPOPSI.GR,,15000.0,15000.0,18600.0
+website,IATRONET.GR,,20000.0,20000.0,24800.0
+website,IATROPEDIA.GR,,18000.0,18000.0,22320.0
+website,IEFIMERIDA.GR,,250000.0,250000.0,310000.0
+website,IKIVOTOS.GR,,2000.0,2000.0,2480.0
+website,ILAMIA.GR,,1000.0,1000.0,1240.0
+website,ILARISSA.GR,,1000.0,1000.0,1240.0
+website,ILIA.NEWS,,1000.0,1000.0,1240.0
+website,ILIA24.GR,,1000.0,1000.0,1240.0
+website,ILIALIVE.GR,,1000.0,1000.0,1240.0
+website,ILIANET.GR,,1000.0,1000.0,1240.0
+website,ILIAVOICE.GR,,1000.0,1000.0,1240.0
+website,ILIAWEB.GR,,1000.0,1000.0,1240.0
+website,ILIDAKAMPOS.GR,,1000.0,1000.0,1240.0
+website,IMERAZANTE.GR,,1000.0,1000.0,1240.0
+website,IMERISIA-VER.GR,,1000.0,1000.0,1240.0
+website,IMOMMY.GR,,20000.0,20000.0,24800.0
+website,IN.GR,,253000.0,253000.0,313720.0
+website,INDICATOR.GR,,1000.0,1000.0,1240.0
+website,INFOWOMAN.GR,,3000.0,3000.0,3720.0
+website,INKEFALONIA.GR,,1000.0,1000.0,1240.0
+website,INKOMOTINI.NEWS,,4000.0,4000.0,4960.0
+website,INSIDER.GR,,13000.0,13000.0,16120.0
+website,INSURANCEWORLD.GR,,3050.0,3050.0,3782.0
+website,INVERIA.GR,,1000.0,1000.0,1240.0
+website,IOANNINATV.GR,,1000.0,1000.0,1240.0
+website,IPAIDEIA.GR,,5000.0,5000.0,6200.0
+website,IPOP.GR,,5500.0,5500.0,6820.0
+website,IRIDATV.GR,,1000.0,1000.0,1240.0
+website,ISELIDA.GR,,1000.0,1000.0,1240.0
+website,ISHOW.GR,,5000.0,5000.0,6200.0
+website,ISTIGMES.GR,,1000.0,1000.0,1240.0
+website,KALAMATAJOURNAL.GR,,500.0,500.0,620.0
+website,KALAMPAKACITY.GR,,1000.0,1000.0,1240.0
+website,KALIMERA-ARKADIA.GR,,1000.0,1000.0,1240.0
+website,KALLITHEAPRESS.GR,,1000.0,1000.0,1240.0
+website,KALYMNOS-NEWS.GR,,1000.0,1000.0,1240.0
+website,KAPA-NEWS.GR,,1000.0,1000.0,1240.0
+website,KARATZOVA.COM,,1000.0,1000.0,1240.0
+website,KARDITSALIVE.NET,,1000.0,1000.0,1240.0
+website,KARDITSAPRESS.GR,,1000.0,1000.0,1240.0
+website,KARFITSA.GR,,8000.0,8000.0,9920.0
+website,KASSETA.GR,,5000.0,5000.0,6200.0
+website,KASTORIA365.GR,,1000.0,1000.0,1240.0
+website,KASTORIANIESTIA.GR,,1000.0,1000.0,1240.0
+website,KATHIMERINI.GR,,150000.0,150000.0,186000.0
+website,KAVALANEWS.GR,,2000.0,2000.0,2480.0
+website,KAVALAPOST.GR,,3000.0,3000.0,3720.0
+website,KAVALAPRESS.GR,,1000.0,1000.0,1240.0
+website,KAVALAWEBNEWS.GR,,2000.0,2000.0,2480.0
+website,KEFALONIAPRESS.GR,,1000.0,1000.0,1240.0
+website,KERKIDASPORT.GR,,1000.0,1000.0,1240.0
+website,KERKYRASIMERA.GR,,1000.0,1000.0,1240.0
+website,KISS.GR,,40000.0,40000.0,49600.0
+website,KOINIGNOMI.GR,,1000.0,1000.0,1240.0
+website,KOINONIKI.GR,,2000.0,2000.0,2480.0
+website,KONTRANEWS.GR,,23000.0,23000.0,28520.0
+website,KORINTHIAKI.GR,,1000.0,1000.0,1240.0
+website,KORINTHOSNEWS.GR,,1000.0,1000.0,1240.0
+website,KORINTHOSTV.GR,,1000.0,1000.0,1240.0
+website,KOSMOSCHANIA.GR,,2000.0,2000.0,2480.0
+website,KOSMOSLARISSA.GR,,1000.0,1000.0,1240.0
+website,KOSNEWS24.GR,,1000.0,1000.0,1240.0
+website,KOSTODAY.COM,,1000.0,1000.0,1240.0
+website,KOZAN.GR,,1000.0,1000.0,1240.0
+website,KOZANILIFE.GR,,1000.0,1000.0,1240.0
+website,KOZANIMEDIA.GR,,1500.0,1500.0,1860.0
+website,KRITI24.GR,,2000.0,2000.0,2480.0
+website,K-TYPOS.GR,,1000.0,1000.0,1240.0
+website,LADYLIKE.GR,,20000.0,20000.0,24800.0
+website,LAIKOYRA.GR,,1000.0,1000.0,1240.0
+website,LAKONIKANEA.GR,,1000.0,1000.0,1240.0
+website,LAKONIKOS.GR,,1000.0,1000.0,1240.0
+website,LAMIANOW.GR,,2000.0,2000.0,2480.0
+website,LAMIAREPORT.GR,,2000.0,2000.0,2480.0
+website,LAMPSIFM.GR,,5000.0,5000.0,6200.0
+website,LAOSNEWS.GR,,1000.0,1000.0,1240.0
+website,LARISANEW.GR,,1000.0,1000.0,1240.0
+website,LARISSANET.GR,,1000.0,1000.0,1240.0
+website,LARISSAPRESS.GR,,1000.0,1000.0,1240.0
+website,LAWANDORDER.GR,,30000.0,30000.0,37200.0
+website,LAWSPOT.GR,,2000.0,2000.0,2480.0
+website,LEFKADAPRESS.GR,,1000.0,1000.0,1240.0
+website,LEFKADATODAY.GR,,1000.0,1000.0,1240.0
+website,LEFKADAWEB.GR,,1000.0,1000.0,1240.0
+website,LEFKASNEWS.GR,,1000.0,1000.0,1240.0
+website,LEPANTORTV.GR,,1000.0,1000.0,1240.0
+website,LESVOSNEWS.NET,,1000.0,1000.0,1240.0
+website,LESVOSPOST.COM,,1000.0,1000.0,1240.0
+website,LIBERAL.GR,,120000.0,120000.0,148800.0
+website,LIFO.GR,,120000.0,120000.0,148800.0
+website,LIMNOSREPORT.GR,,1000.0,1000.0,1240.0
+website,LIVE24.GR,,10000.0,10000.0,12400.0
+website,LOGIASTARATA.GR,,1000.0,1000.0,1240.0
+website,LOGOSPELLAS.GR,,1000.0,1000.0,1240.0
+website,LOGOTYPOS.GR,,1000.0,1000.0,1240.0
+website,LOUTRAKI365.GR,,500.0,500.0,620.0
+website,LOUTRAKIBLOG.GR,,1000.0,1000.0,1240.0
+website,LYKAVITOS.GR,,10000.0,10000.0,12400.0
+website,MAD.TV,,10000.0,10000.0,12400.0
+website,MAG24.GR,,2000.0,2000.0,2480.0
+website,MAGDASNEWS.GR,,3000.0,3000.0,3720.0
+website,MAGNESIANEWS.GR,,1000.0,1000.0,1240.0
+website,MAKTHES.GR,,3000.0,3000.0,3720.0
+website,MAMA365.GR,,10000.0,10000.0,12400.0
+website,MARIECLAIRE.GR,,15000.0,15000.0,18600.0
+website,MARKETBEAST.GR,,1000.0,1000.0,1240.0
+website,MARKETINGWEEK.GR,,5000.0,5000.0,6200.0
+website,MARKETNEWS.GR,,7500.0,7500.0,9300.0
+website,MATRIX24.GR,,8000.0,8000.0,9920.0
+website,MAXITIS.GR,,1000.0,1000.0,1240.0
+website,MAXITISARTAS.GR,,1000.0,1000.0,1240.0
+website,MAXITISTHRAKIS.BLOGSPOT.COM,,1000.0,1000.0,1240.0
+website,MEAPOPSI.GR,,1000.0,1000.0,1240.0
+website,MEDIA.GR,,2000.0,2000.0,2480.0
+website,MEDICALNEWS.GR,,1000.0,1000.0,1240.0
+website,MEDLABNEWS.GR,,2000.0,2000.0,2480.0
+website,MEGARATV.GR,,1000.0,1000.0,1240.0
+website,MEGATV.COM,,17000.0,17000.0,21080.0
+website,MELODIA.GR,,10000.0,10000.0,12400.0
+website,MENSHOUSE.GR,,3000.0,3000.0,3720.0
+website,MENTA88.GR,,15000.0,15000.0,18600.0
+website,MESSINIALIVE.GR,,2000.0,2000.0,2480.0
+website,MESSOLONGHINEWS.GR,,1000.0,1000.0,1240.0
+website,METROSPORT.GR,,5000.0,5000.0,6200.0
+website,MIKROMETOXOS.GR,,5000.0,5000.0,6200.0
+website,MIRMIDONES.GR,,1000.0,1000.0,1240.0
+website,MISSBLOOM.GR,,11000.0,11000.0,13640.0
+website,MIXANITOUXRONOU.GR,,3000.0,3000.0,3720.0
+website,MOLONOTI.GR,,1500.0,1500.0,1860.0
+website,MONEYPRESS.GR,,10000.0,10000.0,12400.0
+website,MONONEWS.GR,,20000.0,20000.0,24800.0
+website,MONOPOLI.GR,,15000.0,15000.0,18600.0
+website,MOSCHATOMAG.COM,,1000.0,1000.0,1000.0
+website,MOTHERSBLOG.GR,,25000.0,25000.0,31000.0
+website,MOTORI.GR,,3000.0,3000.0,3720.0
+website,MOUSIKOS986.GR,,20000.0,20000.0,24800.0
+website,MOUZAKINEWS.GR,,1000.0,1000.0,1240.0
+website,MUSIC892.GR,,5000.0,5000.0,6200.0
+website,MYILIANEWS.GR,,1000.0,1000.0,1240.0
+website,MYLEFKADA.GR,,1000.0,1000.0,1240.0
+website,MYPORTAL.GR,,2000.0,2000.0,2480.0
+website,MYPREVEZA.GR,,1000.0,1000.0,1240.0
+website,NAFPAKTIANEWS.GR,,2000.0,2000.0,2480.0
+website,NAFTEMPORIKI.GR,,40000.0,40000.0,49600.0
+website,NASSOSBLOG.GR,,5000.0,5000.0,6200.0
+website,NAXOSPRESS.GR,,1000.0,1000.0,1240.0
+website,NAXOSTIMES.GR,,1000.0,1000.0,1240.0
+website,NEADRASIS.GR,,1000.0,1000.0,1240.0
+website,NEAFLORINA.GR,,1000.0,1000.0,1240.0
+website,NEAKRITI.GR,,2000.0,2000.0,2480.0
+website,NEAPOLISNEWS.GR,,1000.0,1000.0,1240.0
+website,NEMEAPRESS.GR,,500.0,500.0,620.0
+website,NEOIAGONES.GR,,1000.0,1000.0,1240.0
+website,NEOIORIZONTES.GR,,2000.0,2000.0,2480.0
+website,NEOLAIA.GR,,11000.0,11000.0,13640.0
+website,NEOPOLIS.GR,,13000.0,13000.0,16120.0
+website,NEOSAGON.GR,,1000.0,1000.0,1240.0
+website,NEW-DEAL.GR,,1000.0,1000.0,1240.0
+website,NEWEUROPE.GR,,20000.0,20000.0,20000.0
+website,NEWMONEY.GR,,35000.0,35000.0,43400.0
+website,NEWPOST.GR,,100000.0,100000.0,124000.0
+website,NEWS.GR,,25000.0,25000.0,31000.0
+website,NEWS247.GR,,70000.0,70000.0,86800.0
+website,NEWSARCADIA.BLOGSPOT.COM,,1000.0,1000.0,1240.0
+website,NEWSAUTO.GR,,15000.0,15000.0,18600.0
+website,NEWSBEAST.GR,,75000.0,75000.0,93000.0
+website,NEWSBOMB.GR,,150000.0,150000.0,186000.0
+website,NEWSBREAK.GR,,3000.0,3000.0,3720.0
+website,NEWSIQUE.GR,,3000.0,3000.0,3720.0
+website,NEWSIT.GR,,142000.0,142000.0,176080.0
+website,NOTIA.GR,,1000.0,1000.0,1240.0
+website,NOTOSNEWS.GR,,1000.0,1000.0,1240.0
+website,NOTOSPRESS.GR,,1000.0,1000.0,1240.0
+website,NOU-POU.GR,,1000.0,1000.0,1240.0
+website,NOVASPORTS.GR,,20000.0,20000.0,24800.0
+website,NOWNEWS.GR,,1000.0,1000.0,1240.0
+website,NVNEWS.GR,,2000.0,2000.0,2480.0
+website,ODELALIS.GR,,1000.0,1000.0,1240.0
+website,ODIALOGOS.GR,,1000.0,1000.0,1240.0
+website,ODIGOS.GR,,1000.0,1000.0,1240.0
+website,OGDOO.GR,,15000.0,15000.0,18600.0
+website,OLADEKA.COM,,1000.0,1000.0,1240.0
+website,OLIVEMAGAZINE.GR,,10000.0,10000.0,12400.0
+website,OLYMPIOBIMA.GR,,4000.0,4000.0,4960.0
+website,OLYMPUSMERA.GR,,1000.0,1000.0,1240.0
+website,ONAIRNEWS.GR,,1500.0,1500.0,1860.0
+website,ONEMAN.GR,,20000.0,20000.0,24800.0
+website,ONLARISSA.GR,,4000.0,4000.0,4960.0
+website,ONMED.GR,,25000.0,25000.0,31000.0
+website,ONSPORTS.GR,,25000.0,25000.0,31000.0
+website,OPOLITIS.GR,,1000.0,1000.0,1240.0
+website,ORAFOK.GR,,1000.0,1000.0,1240.0
+website,ORCHOMENOS-PRESS.BLOGSPOT.COM,,1000.0,1000.0,1240.0
+website,ORTHODOXTIMES.COM,,15000.0,15000.0,18600.0
+website,PAGENEWS.GR,,5000.0,5000.0,6200.0
+website,PAIDIS.COM,,1000.0,1000.0,1240.0
+website,PALMOS-GLYFADA.GR,,1000.0,1000.0,1240.0
+website,PAMEEVRO.GR,,1000.0,1000.0,1240.0
+website,PARADIMOTIKA.GR,,1000.0,1000.0,1240.0
+website,PARAGOGI.NET,,5000.0,5000.0,6200.0
+website,PARAKRITIKA.GR,,2000.0,2000.0,2480.0
+website,PARALLAXIMAG.GR,,3000.0,3000.0,3720.0
+website,PARAPOLITIKA.GR,,147000.0,147000.0,182280.0
+website,PARAPOLITIKAARGOLIDA.GR,,500.0,500.0,620.0
+website,PARAPOLITIKAKRITIS.GR,,3000.0,3000.0,3720.0
+website,PARASKHNIO.GR,,8000.0,8000.0,9920.0
+website,PARATIRITIS-NEWS.GR,,1000.0,1000.0,1240.0
+website,PARIANOSTYPOS.GR,,1000.0,1000.0,1240.0
+website,PATRAINEWS.GR,,1000.0,1000.0,1240.0
+website,PATRASTIMES.GR,,2000.0,2000.0,2480.0
+website,PATRASTV.GR,,2000.0,2000.0,2480.0
+website,PATRIS.GR,,2000.0,2000.0,2480.0
+website,PATRISNEWS.GR,,1000.0,1000.0,1240.0
+website,PBNEWS.GR,,1000.0,1000.0,1240.0
+website,PELLANET.GR,,1000.0,1000.0,1240.0
+website,PELLANEWS.GR,,1000.0,1000.0,1240.0
+website,PELOP.GR,,1500.0,1500.0,1860.0
+website,PEPPER966.GR,,20000.0,20000.0,24800.0
+website,PERMISSOS.GR,,1000.0,1000.0,1240.0
+website,PIERIANEWS.GR,,1000.0,1000.0,1240.0
+website,PIPERATA.GR,,5000.0,5000.0,6200.0
+website,PIPERATANEWS.GR,,1000.0,1000.0,1240.0
+website,PIRAEUSPRESS.GR,,1000.0,1000.0,1240.0
+website,PLATFORM.GR,,5000.0,5000.0,6200.0
+website,PLAYBOY.GR,,5000.0,5000.0,6200.0
+website,PLIROFORIODOTIS.GR,,1000.0,1000.0,1240.0
+website,POINTMEDIA.GR,,3000.0,3000.0,3720.0
+website,POLICEPRESS.GR,,1000.0,1000.0,1240.0
+website,POLITIC.GR,,2000.0,2000.0,2480.0
+website,POLITICA.GR,,1500.0,1500.0,1860.0
+website,POLITICALBANK.GR,,1000.0,1000.0,1240.0
+website,POLITIKALESVOS.GR,,1000.0,1000.0,1240.0
+website,POLITISCHIOS.GR,,1000.0,1000.0,1240.0
+website,POLITISONLINE.COM,,10000.0,10000.0,12400.0
+website,POPAGANDA.GR,,5000.0,5000.0,6200.0
+website,PORTNET.GR,,5000.0,5000.0,6200.0
+website,PRESSPUBLICA.GR,,4000.0,4000.0,4960.0
+website,PREVEZABEST.GR,,1000.0,1000.0,1240.0
+website,PREVEZANEWS.GR,,1000.0,1000.0,1240.0
+website,PREVEZAPOST.GR,,1000.0,1000.0,1240.0
+website,PREVEZATODAY.GR,,1000.0,1000.0,1240.0
+website,PROINANEA.GR,,1000.0,1000.0,1240.0
+website,PROININEWS.GR,,1000.0,1000.0,1240.0
+website,PROINOSLOGOS.GR,,1000.0,1000.0,1240.0
+website,PROINOS-TYPOS.GR,,1000.0,1000.0,1240.0
+website,PROTAGON.GR,,50000.0,50000.0,62000.0
+website,PROTIEIDISI.COM,,1000.0,0.0,0.0
+website,PROTINEWS.GR,,1000.0,1000.0,1240.0
+website,PROTOTHEMA.GR,,250000.0,250000.0,310000.0
+website,PROVOCATEUR.GR,,20000.0,20000.0,24800.0
+website,PTOLEMAIDANEWS.GR,,1000.0,1000.0,1240.0
+website,QUEEN.GR,,100000.0,100000.0,124000.0
+website,RADIO-LEHOVO.GR,,1000.0,1000.0,1240.0
+website,RADIO-NET.GR,,1000.0,1000.0,1240.0
+website,RADIOPROTO.GR,,1000.0,1000.0,1240.0
+website,READER.GR,,14000.0,14000.0,17360.0
+website,REAL.GR,,35000.0,35000.0,43400.0
+website,REDFM.GR,,10000.0,10000.0,12400.0
+website,REFORMER.GR,,1000.0,1000.0,1240.0
+website,REPORT24.GR,,1000.0,1000.0,1240.0
+website,REPORTAL.GR,,1000.0,1000.0,1240.0
+website,REPORTER.GR,,10000.0,10000.0,12400.0
+website,RETHEMNOSNEWS.GR,,1500.0,1500.0,1860.0
+website,RETHNEA.GR,,1000.0,1000.0,1240.0
+website,RISE.GR,,5000.0,5000.0,6200.0
+website,ROCKFM.GR,,5000.0,5000.0,6200.0
+website,RODIAKI.GR,,1000.0,1000.0,1240.0
+website,ROUMLOUKI.GR,,1000.0,1000.0,1240.0
+website,RTHESS.GR,,2000.0,2000.0,2480.0
+website,RYTHMOSFM.GR,,20000.0,20000.0,24800.0
+website,SAMOS24.GR,,1000.0,1000.0,1240.0
+website,SAMOSVOICE.GR,,1000.0,1000.0,1240.0
+website,SBCTV.GR,,10000.0,10000.0,12400.0
+website,SDNA.GR,,5000.0,5000.0,6200.0
+website,SELEO.GR,,3000.0,3000.0,3720.0
+website,SENTRA.COM.GR,,1000.0,1000.0,1000.0
+website,SERRAIKANEA.GR,,2000.0,2000.0,2480.0
+website,SFEDONA.GR,,500.0,500.0,620.0
+website,SFERA.GR,,20000.0,20000.0,24800.0
+website,SHAPE.GR,,5000.0,5000.0,6200.0
+website,SIERAFM.GR,,1000.0,1000.0,1240.0
+website,SINIDISI.GR,,1000.0,1000.0,1240.0
+website,SKAI.GR,,100000.0,100000.0,124000.0
+website,SKAIPATRAS.GR,,3000.0,3000.0,3720.0
+website,SKAIRADIO.GR,,30000.0,30000.0,37200.0
+website,SKYRODOS.GR,,1000.0,1000.0,1240.0
+website,SLPRESS.GR,,10000.0,10000.0,12400.0
+website,SOFOKLEOUSIN.GR,,2000.0,2000.0,2480.0
+website,SPORT24.GR,,40000.0,40000.0,49600.0
+website,SPORT-FM.GR,,20000.0,20000.0,24800.0
+website,SPORTIME.GR,,2000.0,2000.0,2480.0
+website,SPOTIFY.COM,,13000.0,13000.0,16120.0
+website,STAGONNEWS.GR,,500.0,500.0,620.0
+website,STAR.GR,,100000.0,100000.0,124000.0
+website,STARTMEDIACORFU.GR,,1000.0,1000.0,1240.0
+website,STARTUPPER.GR,,5000.0,5000.0,6200.0
+website,STATHMOSNET.GR,,1000.0,1000.0,1240.0
+website,STEREANEWS.GR,,1000.0,1000.0,1240.0
+website,STIFAKA.GR,,1000.0,1000.0,1240.0
+website,STONISI.GR,,1000.0,1000.0,1240.0
+website,SVOURANEWS.GR,,1000.0,1000.0,1240.0
+website,SYMBOULOS.GR,,1000.0,1000.0,1240.0
+website,SYROSTODAY.GR,,1000.0,1000.0,1240.0
+website,TAMETEORA.GR,,1000.0,1000.0,1240.0
+website,TANEA.GR,,64000.0,64000.0,79360.0
+website,TANEATISTECHNIS.COM,,5000.0,5000.0,6200.0
+website,TAXYDROMOS.GR,,1000.0,1000.0,1240.0
+website,TAXYDROMOSARTAS.GR,,1000.0,1000.0,1240.0
+website,TEMPO24.NEWS,,3000.0,3000.0,3720.0
+website,THAROS.GR,,2500.0,2500.0,3100.0
+website,THARROSNEWS.GR,,1000.0,1000.0,1240.0
+website,THEAMAGAZINE.GR,,1000.0,1000.0,1240.0
+website,THEBEST.GR,,3000.0,3000.0,3720.0
+website,THECALLER.GR,,10000.0,10000.0,12400.0
+website,THECEO.GR,,1000.0,1000.0,1240.0
+website,THEMAMAGERS.GR,,2000.0,2000.0,2480.0
+website,THENEWSPAPER.GR,,1000.0,1000.0,1240.0
+website,THEPRESIDENT.GR,,30000.0,30000.0,37200.0
+website,THEPRESSROOM.GR,,10000.0,10000.0,12400.0
+website,THESPRO.GR,,1000.0,1000.0,1240.0
+website,THESSALIAECONOMY.GR,,500.0,500.0,620.0
+website,THESSALIANEWS.GR,,1000.0,1000.0,1240.0
+website,THESSALIATV.GR,,1000.0,1000.0,1240.0
+website,THESSALIKESEPILOGES.GR,,1000.0,1000.0,1240.0
+website,THESSALIKOS.GR,,1000.0,1000.0,1000.0
+website,THESSNEWS.GR,,3000.0,3000.0,3720.0
+website,THESSTODAY.GR,,2000.0,2000.0,2480.0
+website,THESTIVAL.GR,,3000.0,3000.0,3720.0
+website,THETOC.GR,,50000.0,50000.0,62000.0
+website,THEWEBRADIO.GR,,1000.0,1000.0,1240.0
+website,THRAKI.COM.GR,,1000.0,1000.0,1240.0
+website,THRAKIKIAGORA.GR,,1000.0,1000.0,1240.0
+website,THRAKINEA.GR,,1000.0,1000.0,1240.0
+website,THRAKITODAY.COM,,2000.0,2000.0,2480.0
+website,TILEGRAFIMANEWS.GR,,3000.0,3000.0,3720.0
+website,TINEALARISSA.GR,,4000.0,4000.0,4960.0
+website,TLIFE.GR,,80000.0,80000.0,99200.0
+website,TOKARFI.GR,,2000.0,2000.0,2480.0
+website,TOMANIFESTO.GR,,10000.0,10000.0,12400.0
+website,TOMISTINENIMEROSI.GR,,1000.0,1000.0,1240.0
+website,TOPIKIFONI.GR,,1000.0,1000.0,1240.0
+website,TOPONTIKI.GR,,10000.0,10000.0,12400.0
+website,TORNOSNEWS.GR,,1000.0,1000.0,1240.0
+website,TOURISMTODAY.GR,,5000.0,5000.0,6200.0
+website,TOVIMA.GR,,64000.0,64000.0,79360.0
+website,TOXRIMA.GR,,1000.0,1000.0,1240.0
+website,TRIBUNE.GR,,5000.0,5000.0,6200.0
+website,TRIKALADAY.GR,,1000.0,1000.0,1240.0
+website,TRIKALAEREVNA.GR,,1000.0,1000.0,1240.0
+website,TRIKALAFOCUS.GR,,1000.0,1000.0,1240.0
+website,TRIKALAIN.GR,,1000.0,1000.0,1240.0
+website,TRIKALAOLA.GR,,1000.0,1000.0,1240.0
+website,TRIKALAVIEW.GR,,1000.0,1000.0,1240.0
+website,TRIKALAVOICE.GR,,1000.0,1000.0,1240.0
+website,TRIKKIPRESS.GR,,1000.0,1000.0,1240.0
+website,TRTTV.GR,,2000.0,2000.0,2480.0
+website,TV10.GR,,1000.0,1000.0,1240.0
+website,TVALFA.GR,,1000.0,1000.0,1240.0
+website,TVKOSMOS.GR,,1000.0,1000.0,1240.0
+website,TVOPEN.GR,,100000.0,100000.0,124000.0
+website,TVPATRIDA.GR,,1000.0,1000.0,1240.0
+website,TVSTAR.GR,,1000.0,1000.0,1240.0
+website,TVXS.GR,,5000.0,5000.0,6200.0
+website,TYPOS-I.GR,,1000.0,1000.0,1240.0
+website,TYPOSTHES.GR,,3000.0,3000.0,3720.0
+website,USAY.GR,,5000.0,5000.0,6200.0
+website,VERIANET.GR,,1000.0,1000.0,1000.0
+website,VERIOTIS.GR,,1000.0,1000.0,1240.0
+website,VIMANEWS.GR,,1000.0,1000.0,1240.0
+website,VIMAONLINE.GR,,1000.0,1000.0,1240.0
+website,VIMAORTHODOXIAS.GR,,3000.0,3000.0,3720.0
+website,VIMAPOLITI.GR,,1000.0,1000.0,1240.0
+website,VIMATISKO.GR,,1000.0,1000.0,1240.0
+website,VIRUS.COM.GR,,5250.0,5250.0,6510.0
+website,VITA.GR,,22000.0,22000.0,27280.0
+website,VOICENEWS.GR,,15000.0,15000.0,18600.0
+website,VOLOSDAY.GR,,1000.0,1000.0,1000.0
+website,VORIA.GR,,5000.0,5000.0,6200.0
+website,VOULI.NET,,1000.0,1000.0,1240.0
+website,VRADINI.GR,,5000.0,5000.0,6200.0
+website,WISHMAG.GR,,2000.0,0.0,0.0
+website,WOMANIDOL.GR,,5000.0,5000.0,6200.0
+website,WOMANTOC.GR,,10000.0,10000.0,12400.0
+website,WORKENTER.GR,,5000.0,5000.0,6200.0
+website,WWW.NOTIOSXTYPOS.GR,,1000.0,1000.0,1240.0
+website,XALKIDIKIPOLITIKI.GR,,1000.0,1000.0,1240.0
+website,XANTHI2.GR,,1000.0,1000.0,1240.0
+website,XANTHIDAILY.GR,,1000.0,1000.0,1240.0
+website,XANTHINEWS.GR,,2000.0,2000.0,2480.0
+website,XE.GR,,2000.0,2000.0,2480.0
+website,XRIMAONLINE.GR,,10000.0,10000.0,12400.0
+website,XRONIKADRAMAS.GR,,1000.0,1000.0,1240.0
+website,XRONOS.GR,,1000.0,1000.0,1240.0
+website,YGEIAMOU.GR,,25000.0,25000.0,31000.0
+website,YOUWEEKLY.GR,,15000.0,15000.0,18600.0
+website,YUPIII.GR,,5000.0,5000.0,6200.0
+website,ZARPANEWS.GR,,2000.0,2000.0,2480.0
+website,ZINAPOST.GR,,3000.0,3000.0,3720.0
+website,ZOUGLA.GR,,50000.0,50000.0,62000.0
+radio,"ΑPPS 96,6",ΕΒΡΟΥ,3000.0,3000.0,3720.0
+radio,2000 FM STEREO,ΣΑΜΟΣ,1500.0,1500.0,1755.0
+radio,"96,5 ΣΤΑΘΜΟΣ ΕΡΓΑΖΟΜΕΝΩΝ",ΕΥΒΟΙΑΣ,2000.0,2000.0,2480.0
+radio,"ACHELOOS 98,4",ΑΙΤ/ΝΙΑΣ,2000.0,2000.0,2480.0
+radio,ACTIVE 91.3,ΚΥΚΛΑΔΩΝ,2000.0,2000.0,2480.0
+radio,ALPHA,ΑΤΤΙΚΗΣ,6000.0,6000.0,7440.0
+radio,ALPHA,ΑΤΤΙΚΗΣ,10000.0,10000.0,12400.0
+radio,ALPHA NEWS,ΔΡΑΜΑΣ,3000.0,3000.0,3720.0
+radio,"ALPHA RADIO 88,6",ΚΑΒΑΛΑΣ,3000.0,3000.0,3720.0
+radio,ALPHA RADIO 94.4,ΑΧΑΪΑΣ,3000.0,3000.0,3720.0
+radio,ANT 1,ΛΑΚΩΝΙΑΣ,2000.0,2000.0,2480.0
+radio,"ANTENNA ΚΟΣΜΟΣ 93,8",ΔΩΔΕΚΑΝΗΣΟΥ,3000.0,3000.0,3720.0
+radio,"ARMONIA 103,2",ΣΑΜΟΥ,1500.0,1500.0,1860.0
+radio,ASTRA,ΜΑΓΝΗΣΙΑΣ,2000.0,2000.0,2480.0
+radio,ATHENS RADIO DEE JAY,ΑΤΤΙΚΗΣ,40000.0,39998.6,49598.26
+radio,ATHENS VOICE,ΑΤΤΙΚΗΣ,40000.0,40000.0,49600.0
+radio,"AVANTI 97,7",ΦΘΙΩΤΙΔΑΣ,3000.0,3000.2,3720.25
+radio,AVANTI SKIATHOS,ΜΑΓΝΗΣΙΑΣ,2000.0,2000.0,2480.0
+radio,BEST,ΑΤΤΙΚΗΣ,10000.0,9997.5,12396.9
+radio,"BEST 93,9",ΛΑΡΙΣΗΣ,1000.0,1000.0,1240.0
+radio,BEST 97.3,ΜΕΣΣΗΝΙΑΣ,3000.0,3000.0,3720.0
+radio,CITY 93 FM,ΔΩΔΕΚΑΝΗΣΟΥ,1500.0,1500.0,1860.0
+radio,"COSMOS FM 96,5",ΚΕΦΑΛΟΝΙΑΣ,2000.0,2000.0,2480.0
+radio,DEE JAY 95.7,ΛΑΡΙΣΗΣ,1000.0,1000.0,1240.0
+radio,DELTA FM,ΕΒΡΟΥ,2000.0,2000.0,2480.0
+radio,DREAM FM,ΗΡΑΚΛΕΙΟΥ,2000.0,2000.0,2480.0
+radio,EASY,ΗΡΑΚΛΕΙΟΥ,1500.0,1500.0,1860.0
+radio,EASY,ΑΤΤΙΚΗΣ,30000.0,30000.0,37200.0
+radio,"EASY 105,3",ΤΡΙΚΑΛΩΝ,1500.0,1500.0,1860.0
+radio,FLASH,ΘΕΣΣΑΛΟΝΙΚΗΣ,2000.0,2000.0,2480.0
+radio,FLY,ΘΕΣΣΑΛΟΝΙΚΗΣ,10000.0,10000.0,12400.0
+radio,FLY,ΛΑΚΩΝΙΑΣ,2000.0,2000.0,2480.0
+radio,FM 100,ΛΕΣΒΟΥ,1500.0,1500.0,1860.0
+radio,"FOCUS 103,6",ΘΕΣΣΑΛΟΝΙΚΗΣ,5000.0,5000.0,6200.0
+radio,FOCUS RADIO,ΜΕΣΣΗΝΙΑΣ,2000.0,2000.0,2480.0
+radio,GALAXY,ΑΤΤΙΚΗΣ,15000.0,15000.0,18600.0
+radio,GIGA FM,ΙΩΑΝΝΙΝΩΝ,2000.0,2000.0,2480.0
+radio,IMAGINE,ΘΕΣΣΑΛΟΝΙΚΗΣ,10000.0,10000.0,12400.0
+radio,"IN KEFALONIA 103,9",ΚΕΦΑΛΟΝΙΑΣ,2000.0,2000.0,2480.0
+radio,INFORADIO,ΚΟΡΙΝΘΟΥ,3000.0,3000.0,3720.0
+radio,IONIAN GALAXY,ΚΕΦΑΛΟΝΙΑΣ,2000.0,2000.0,2480.0
+radio,IONION FM,ΗΛΕΙΑΣ,4000.0,4000.0,4960.0
+radio,KANALI EVRIPOS 90.0,ΕΥΒΟΙΑΣ,2000.0,2000.0,2480.0
+radio,KISS,ΑΤΤΙΚΗΣ,70000.0,70000.0,86800.0
+radio,"LEPANTO 101,4",ΑΙΤ/ΝΙΑΣ,1000.0,1000.0,1240.0
+radio,"LIBERO 107,4",ΘΕΣΣΑΛΟΝΙΚΗΣ,5000.0,5000.0,6200.0
+radio,LIFE NEWS RADIO,ΚΕΡΚΥΡΑΣ,2000.0,2000.0,2480.0
+radio,"LIFE RADIO 106,3",ΠΕΛΛΑΣ,1000.0,1000.0,1240.0
+radio,LOBBY FM,ΚΑΒΑΛΑΣ,3000.0,3000.0,3720.0
+radio,LOUD ΤΡΙΚΑΛΑ 88.8,ΤΡΙΚΑΛΩΝ,1000.0,1000.0,1240.0
+radio,LOVE,ΘΕΣΣΑΛΟΝΙΚΗΣ,5000.0,5000.0,6200.0
+radio,MAD RADIO,ΑΤΤΙΚΗΣ,25000.0,25000.0,31000.0
+radio,MAX,ΧΑΝΙΩΝ,1000.0,1000.0,1240.0
+radio,"MAX FM 93,4",ΑΧΑΪΑΣ,3000.0,3000.0,3720.0
+radio,MAXIMUM FM,ΕΒΡΟΥ,3000.0,3000.0,3720.0
+radio,MENTA,ΑΤΤΙΚΗΣ,30000.0,30000.0,37200.0
+radio,METROPOLIS,ΘΕΣΣΑΛΟΝΙΚΗΣ,20000.0,20000.0,24800.0
+radio,MUSIC,ΑΤΤΙΚΗΣ,15000.0,15000.03,18600.04
+radio,NORTH,ΘΕΣΣΑΛΟΝΙΚΗΣ,5000.0,5000.0,6200.0
+radio,NOTOS NEWS,ΔΩΔΕΚΑΝΗΣΟΥ,1500.0,1500.0,1860.0
+radio,"NRG 98,5",ΕΒΡΟΥ,2000.0,2000.0,2480.0
+radio,OPT FM,ΗΛΕΙΑΣ,2000.0,2000.0,2480.0
+radio,ORANGE,ΑΡΤΑΣ,2000.0,2000.0,2480.0
+radio,"PALACE 91,4",ΛΑΡΙΣΗΣ,3000.0,3000.0,3720.0
+radio,PALMOS,ΚΕΦΑΛΟΝΙΑΣ,1000.0,1000.0,1240.0
+radio,PARTY FM,ΑΤΤΙΚΗΣ,6000.0,6000.0,7440.0
+radio,PARTY FM,ΛΑΡΙΣΗΣ,1000.0,1000.0,1240.0
+radio,PELLA FM,ΠΕΛΛΑΣ,3000.0,3000.0,3720.0
+radio,PEPPER,ΑΤΤΙΚΗΣ,30000.0,30000.0,37200.0
+radio,PLANET,ΛΑΣΙΘΙΟΥ,1500.0,1500.0,1860.0
+radio,PLUS RADIO,ΘΕΣΣΑΛΟΝΙΚΗΣ,20000.0,20000.0,24800.0
+radio,"POLITIKA 89,8",ΗΡΑΚΛΕΙΟΥ,6000.0,6000.0,7440.0
+radio,POWER FM,ΜΑΓΝΗΣΙΑΣ,1000.0,1000.0,1240.0
+radio,"PRESSING 90,1",ΛΑΡΙΣΗΣ,3000.0,3000.0,3720.0
+radio,"PRISMA 91,6",ΠΡΕΒΕΖΑΣ,4000.0,4000.0,4960.0
+radio,RADIO 1,ΕΥΒΟΙΑΣ,3000.0,3000.0,3720.0
+radio,RADIO 4YOU,ΘΕΣΠΡΩΤΙΑΣ,1000.0,1000.0,1240.0
+radio,RADIO ALIVERI,ΕΥΒΟΙΑΣ,1000.0,1000.0,1240.0
+radio,"RADIO PROTO 91,5",ΔΩΔΕΚΑΝΗΣΟΥ,1500.0,1500.0,1860.0
+radio,RAINBOW,ΘΕΣΣΑΛΟΝΙΚΗΣ,15000.0,15000.0,18600.0
+radio,REAL FM,ΑΤΤΙΚΗΣ,50000.0,50000.0,62000.0
+radio,RED FM,ΑΤΤΙΚΗΣ,30000.0,30000.0,37200.0
+radio,ROCK,ΘΕΣΣΑΛΟΝΙΚΗΣ,10000.0,10000.0,12400.0
+radio,ROCK FM,ΑΤΤΙΚΗΣ,30000.0,29996.8,37196.03
+radio,RSO,ΘΕΣΣΑΛΟΝΙΚΗΣ,10000.0,10000.08,12400.1
+radio,SFERA,ΛΑΡΙΣΗΣ,1000.0,1000.0,1240.0
+radio,"SFERIKOS 99,3",ΕΒΡΟΥ,2000.0,2000.0,2480.0
+radio,SIERA FM,ΚΟΖΑΝΗΣ,2000.0,2000.0,2480.0
+radio,"SKAI 92,6",ΠΙΕΡΙΑΣ,2000.0,2000.0,2480.0
+radio,SPORT FM,ΑΤΤΙΚΗΣ,40000.0,40002.9,49603.6
+radio,STAR,ΧΑΝΙΩΝ,1500.0,1500.0,1860.0
+radio,STAR FM,ΔΡΑΜΑΣ,1500.0,1500.0,1860.0
+radio,"STAR FM 93,3",ΓΡΕΒΕΝΩΝ,3000.0,3000.0,3720.0
+radio,STAR FM 95.5,ΧΑΛΚΙΔΙΚΗΣ,2000.0,2000.0,2480.0
+radio,"STAR FM 97,1",ΦΘΙΩΤΙΔΑΣ,3000.0,3000.0,3720.0
+radio,STATUS,ΘΕΣΣΑΛΟΝΙΚΗΣ,5000.0,5000.0,6200.0
+radio,STATUS RADIO 94.1,ΕΒΡΟΥ,4000.0,4000.0,4960.0
+radio,STUDIO,ΛΕΥΚΑΔΑΣ,3000.0,3000.0,3720.0
+radio,STUDIO,ΡΕΘΥΜΝΟΥ,2000.0,2000.0,2480.0
+radio,STUDIO 1,ΚΕΡΚΥΡΑΣ,1000.0,1000.0,1240.0
+radio,STYLE 100,ΛΑΣΙΘΙΟΥ,1500.0,1500.0,1860.0
+radio,SUPER 88 FM,ΞΑΝΘΗΣ,2000.0,2000.0,2480.0
+radio,SUPER FM,ΗΡΑΚΛΕΙΟΥ,1500.0,1500.0,1860.0
+radio,SUPER FM,ΙΩΑΝΝΙΝΩΝ,2000.0,2000.0,2480.0
+radio,SUPER FM,ΧΑΝΙΩΝ,3000.0,3000.0,3720.0
+radio,"SUPER FM 104,1",ΚΟΡΙΝΘΟΥ,1500.0,1500.0,1860.0
+radio,TEAM FM,ΡΕΘΥΜΝΟΥ,3000.0,3000.0,3720.0
+radio,"TRT 95,1",ΛΑΡΙΣΗΣ,3000.0,3000.0,3720.0
+radio,"VELVET 96,8",ΘΕΣΣΑΛΟΝΙΚΗΣ,10000.0,10000.0,12400.0
+radio,WE RADIO,ΘΕΣΣΑΛΟΝΙΚΗΣ,5000.0,5000.0,6200.0
+radio,WEST RADIO,ΚΟΖΑΝΗΣ,2000.0,2000.0,2480.0
+radio,"YOLO 102,1",ΒΟΙΩΤΙΑΣ,1000.0,1000.0,1240.0
+radio,ZOO,ΘΕΣΣΑΛΟΝΙΚΗΣ,20000.0,20000.0,24800.0
+radio,ΑTHLETIC 104.2,ΗΡΑΚΛΕΙΟΥ,2000.0,2000.0,2480.0
+radio,"ΑVENA 97,7",ΗΜΑΘΙΑΣ,2000.0,2000.0,2480.0
+radio,"ΑΓΡΙΝΙΟ 9,37",ΑΙΤ/ΝΙΑΣ,2000.0,2000.0,2480.0
+radio,ΑΕΡΑΣ FM,ΑΙΤ/ΝΙΑΣ,1000.0,1000.0,1240.0
+radio,ΑΘΗΝΑ 984,ΑΤΤΙΚΗΣ,5000.0,5015.0,6218.6
+radio,"ΑΙΧΜΗ 102,8",ΗΜΑΘΙΑΣ,2000.0,2000.0,2480.0
+radio,ΑΚΟΥ FM 99.6,ΗΜΑΘΙΑΣ,3000.0,3000.0,3720.0
+radio,ΑΚΡΟΑΜΑ,ΜΑΓΝΗΣΙΑΣ,3000.0,3000.0,3720.0
+radio,ΑΛΗΘΕΙΑ,ΧΙΟΥ,3000.0,3000.0,3510.0
+radio,"ΑΛΦΑ 94,7",ΚΑΣΤΟΡΙΑΣ,2000.0,2000.0,2480.0
+radio,ΑΝΤ 1 ΑΙΓΑΙΟΥ 105,ΧΙΟΥ,3000.0,3000.0,3510.0
+radio,"ΑΝΤ1 97,1",ΧΑΝΙΩΝ,7000.0,7000.0,8680.0
+radio,ΑΝΤΕΝΝΕΣ,ΚΑΣΤΟΡΙΑΣ,3000.0,3000.0,3720.0
+radio,"ΑΡΚΑΔΙΑ 93,8",ΑΡΚΑΔΙΑΣ,2000.0,2000.0,2480.0
+radio,ΒΕΡΑ,ΜΑΓΝΗΣΙΑΣ,3000.0,3000.0,3720.0
+radio,ΒΗΜΑ,ΑΤΤΙΚΗΣ,2000.0,2000.0,2480.0
+radio,"ΒΟΛΟΣ 98,6",ΜΑΓΝΗΣΙΑΣ,2000.0,2000.0,2480.0
+radio,ΓΑΥΔΟΣ,ΧΑΝΙΩΝ,1500.0,1500.0,1860.0
+radio,ΔΗΜΟΤΙΚΗ ΡΑΔΙΟΦΩΝΙΑ,ΑΡΚΑΔΙΑΣ,2000.0,2000.0,2480.0
+radio,ΔΗΜΟΤΙΚΟ FM 100,ΘΕΣΣΑΛΟΝΙΚΗΣ,5000.0,5000.0,6200.0
+radio,ΔΗΜΟΤΙΚΟ ΚΑΤΕΡΙΝΗΣ,ΠΙΕΡΙΑΣ,1500.0,1500.0,1860.0
+radio,ΔΗΜΟΤΙΚΟ ΠΟΛΥΓΥΡΟΥ,ΧΑΛΚΙΔΙΚΗΣ,2000.0,2000.0,2480.0
+radio,ΔΗΜΟΤΙΚΟ ΠΡΕΒΕΖΑΣ,ΠΡΕΒΕΖΑΣ,1000.0,1000.0,1240.0
+radio,ΔΗΜΟΤΙΚΟ ΡΑΔΙΟΦΩΝΟ,ΙΩΑΝΝΙΝΩΝ,2000.0,2000.0,2480.0
+radio,ΔΙΑΥΛΟΣ 92.4,ΡΟΔΟΠΗΣ,3000.0,3000.0,3720.0
+radio,ΔΙΕΣΗ,ΑΤΤΙΚΗΣ,30000.0,29999.38,37199.23
+radio,ΔΙΚΤΥΟ,ΧΑΝΙΩΝ,1000.0,1000.0,1240.0
+radio,ΔΡΟΜΟΣ,ΑΤΤΙΚΗΣ,30000.0,29999.38,37199.23
+radio,"ΔΥΤΙΚΑ 92,8",ΑΙΤ/ΝΙΑΣ,2000.0,2000.0,2480.0
+radio,ΕΚΦΡΑΣΗ 97 FM,ΔΩΔΕΚΑΝΗΣΟΥ,1500.0,1500.0,1755.0
+radio,ΕΛΕΥΘΕΡΗ ΡΑΔΙΟΦΩΝΙΑ ΚΥΚΛΑΔΩΝ,ΚΥΚΛΑΔΩΝ,3000.0,3000.0,3720.0
+radio,ΕΛΕΥΘΕΡΟ ΡΑΔ. ΠΤΟΛΕΜΑΪΔΑΣ,ΚΟΖΑΝΗΣ,4000.0,4000.0,4960.0
+radio,ΕΛΕΥΘΕΡΟ ΡΑΔ. ΣΑΝΤΟΡΙΝΗΣ,ΚΥΚΛΑΔΩΝ,1000.0,1000.0,1240.0
+radio,ΕΛΛΗΝΙΚΟΣ,ΑΤΤΙΚΗΣ,30000.0,30000.0,37200.0
+radio,ΕΝ ΛΕΥΚΩ,ΑΤΤΙΚΗΣ,30000.0,30000.0,37200.0
+radio,ΈΝΑ,ΜΑΓΝΗΣΙΑΣ,1500.0,1500.0,1860.0
+radio,ΕΠΙΛΟΓΕΣ,ΚΙΛΚΙΣ,4000.0,4000.0,4960.0
+radio,ΕΡΑ (4 ΣΤΑΘMOI),ΑΤΤΙΚΗΣ,40000.0,39904.0,49480.96
+radio,ΕΡΜΗΣ,ΖΑΚΥΝΘΟΥ,2000.0,2000.0,2480.0
+radio,ΕΡΩΤΙΚΟΣ,ΘΕΣΣΑΛΟΝΙΚΗΣ,15000.0,15000.0,18600.0
+radio,ΖΥΓΟΣ,ΤΡΙΚΑΛΩΝ,5000.0,5000.0,6200.0
+radio,ΗΙΤ,ΑΤΤΙΚΗΣ,20000.0,20000.0,24800.0
+radio,ΗΛΕΚΤΡΑ,ΚΟΡΙΝΘΟΥ,1500.0,1500.0,1860.0
+radio,ΗΡΑΚΛΕΙΟ 984,ΗΡΑΚΛΕΙΟΥ,10000.0,10000.0,12400.0
+radio,ΗΧΩ FM,ΛΑΣΙΘΙΟΥ,1500.0,1500.0,1860.0
+radio,ΗΧΩ FM,ΚΥΚΛΑΔΩΝ,2000.0,2000.0,2480.0
+radio,ΗΧΩ FM,ΙΩΑΝΝΙΝΩΝ,2000.0,2000.0,2480.0
+radio,ΘΕΜΑ FM,ΑΤΤΙΚΗΣ,40000.0,40000.0,49600.0
+radio,ΙΚΑΡΙΑΚΗ ΡΑΔΙΟΦΩΝΙΑ,ΣΑΜΟΥ,1500.0,1500.0,1860.0
+radio,"ΚΑΣΤΟΡΙΑ 91,5",ΚΑΣΤΟΡΙΑΣ,2000.0,2000.0,2480.0
+radio,ΚΟΣΜΟΡΑΔΙΟ,ΘΕΣΣΑΛΟΝΙΚΗΣ,20000.0,20000.0,24800.0
+radio,ΚΟΣΜΟΣ FM 100,ΕΥΒΟΙΑΣ,1000.0,1000.0,1240.0
+radio,"ΚΡΗΤΗ 101,5",ΗΡΑΚΛΕΙΟΥ,15000.0,15000.0,18600.0
+radio,ΚΡΗΤΙΚΟΣ  88.7,ΗΡΑΚΛΕΙΟΥ,1500.0,1500.0,1860.0
+radio,ΛΑΙΚΟΣ,ΘΕΣΣΑΛΟΝΙΚΗΣ,20000.0,20000.16,24800.2
+radio,ΛΑΜΙΑ FM 1,ΦΘΙΩΤΙΔΑΣ,3000.0,3000.0,3720.0
+radio,ΛΑΜΨΗ,ΑΤΤΙΚΗΣ,30000.0,29996.8,37196.03
+radio,"ΛΑΣΙΘΙ 92,3",ΛΑΣΙΘΙΟΥ,1500.0,1500.0,1860.0
+radio,ΛΑΤΩ FM,ΛΑΣΙΘΙΟΥ,1500.0,1500.0,1860.0
+radio,ΛΕΧΟΒΟ FM 97.1,ΦΛΩΡΙΝΑΣ,4000.0,4000.0,4960.0
+radio,ΜΑΡΚΟΝΙ,ΜΑΓΝΗΣΙΑΣ,2000.0,2000.0,2480.0
+radio,ΜΕΛΩΔΙΑ,ΑΤΤΙΚΗΣ,40000.0,40000.0,49600.0
+radio,ΜΟΥΣΙΚΗ ΛΑΜΨΗ,ΑΧΑΪΑΣ,2000.0,2000.0,2480.0
+radio,ΜΟΥΣΙΚΟΣ,ΑΤΤΙΚΗΣ,20000.0,20000.0,24800.0
+radio,ΠΑΛΜΟΣ FM,ΜΕΣΣΗΝΙΑΣ,3000.0,3000.0,3720.0
+radio,"ΠΑΛΜΟΣ FM 99,5",ΔΩΔΕΚΑΝΗΣΟΥ,2000.0,2000.0,2480.0
+radio,ΠΑΝΟΡΑΜΑ,ΘΕΣΣΑΛΟΝΙΚΗΣ,5000.0,5000.0,6200.0
+radio,ΠΑΡΑΠΟΛΙΤΙΚΑ,ΑΤΤΙΚΗΣ,40000.0,40000.0,49600.0
+radio,ΠΑΡΑΠΟΛΙΤΙΚΑ ΚΡΗΤΗΣ,ΡΕΘΥΜΝΟΥ,2000.0,2000.0,2480.0
+radio,ΠΑΤΡΙΔΑ FM,ΡΟΔΟΠΗΣ,1000.0,1000.0,1240.0
+radio,ΠΕΙΡΑΙΑΣ ΚΑΝΑΛΙ 1,ΑΤΤΙΚΗΣ,5000.0,5000.0,6200.0
+radio,ΠΟΛΙΤΕΙΑ FM,ΛΑΚΩΝΙΑΣ,2000.0,2000.0,2480.0
+radio,"ΠΡΩΪΝΗ 93,7",ΚΑΒΑΛΑΣ,2000.0,2000.0,2480.0
+radio,"Ρ. ΗΓΟΥΜΕΝΙΤΣΑ/ ΕΝ ΠΛΩ 89,2",ΘΕΣΠΡΩΤΙΑΣ,2000.0,2000.0,2480.0
+radio,"Ρ.ΕΒΡΟΣ 97,1",ΕΒΡΟΥ,2000.0,2000.0,2480.0
+radio,ΡΑΔΙΟ CAFE,ΣΑΜΟΥ,1500.0,1500.0,1755.0
+radio,ΡΑΔΙΟ ΑΙΓΙΟ,ΑΧΑΪΑΣ,1500.0,1500.0,1860.0
+radio,ΡΑΔΙΟ ΑΛΦΑ ΛΗΜΝΟΥ,ΛΕΣΒΟΥ,1500.0,1500.0,1860.0
+radio,ΡΑΔΙΟ ΑΜΒΡΑΚΙΑ,ΑΙΤ/ΝΙΑΣ,1500.0,1500.0,1860.0
+radio,ΡΑΔΙΟ ΑΜΟΡΕ,ΧΑΝΙΩΝ,4000.0,4000.0,4960.0
+radio,"ΡΑΔΙΟ ΑΡΤΑ 101,5",ΑΡΤΑΣ,1500.0,1500.0,1860.0
+radio,ΡΑΔΙΟ ΓΑΜΜΑ,ΑΧΑΪΑΣ,2000.0,0.0,0.0
+radio,ΡΑΔΙΟ ΔΙΣΤΟΜΟ,ΒΟΙΩΤΙΑΣ,1500.0,1500.0,1860.0
+radio,ΡΑΔΙΟ ΕΜΦΑΣΗ,ΜΕΣΣΗΝΙΑΣ,2000.0,2000.0,2480.0
+radio,ΡΑΔΙΟ ΈΝΑ,ΚΑΒΑΛΑΣ,1000.0,1000.0,1240.0
+radio,ΡΑΔΙΟ ΕΝΑ,ΘΕΣΣΑΛΟΝΙΚΗΣ,10000.0,10000.0,12400.0
+radio,"ΡΑΔΙΟ ΕΝΗΜΕΡΩΣΗ 92,2",ΠΙΕΡΙΑΣ,2000.0,2000.0,2480.0
+radio,ΡΑΔΙΟ ΕΠΙΛΟΓΕΣ,ΣΕΡΡΩΝ,3000.0,3000.0,3720.0
+radio,"ΡΑΔΙΟ ΕΠΤΑΝΗΣΑ 98,8",ΚΕΡΚΥΡΑΣ,1000.0,1000.0,1240.0
+radio,ΡΑΔΙΟ ΕΨΙΛΟΝ 103,ΣΕΡΡΩΝ,3000.0,3000.0,3000.0
+radio,"ΡΑΔΙΟ ΗΜΑΘΙΑ 97,3",ΗΜΑΘΙΑΣ,1000.0,1000.0,1240.0
+radio,ΡΑΔΙΟ ΘΕΣΣΑΛΙΑ FM 96,ΚΑΡΔΙΤΣΑΣ,3000.0,3000.0,3720.0
+radio,ΡΑΔΙΟ ΘΕΣΣΑΛΙΑ FM 96,ΕΒΡΟΥ,2000.0,2000.0,2480.0
+radio,ΡΑΔΙΟ ΘΕΣΣΑΛΟΝΙΚΗ,ΘΕΣΣΑΛΟΝΙΚΗΣ,30000.0,30000.0,37200.0
+radio,ΡΑΔΙΟ ΘΗΒΑ,ΒΟΙΩΤΙΑΣ,2000.0,2000.0,2480.0
+radio,ΡΑΔΙΟ ΚΑΛΛΟΝΗ,ΛΕΣΒΟΥ,1500.0,1500.0,1755.0
+radio,"ΡΑΔΙΟ ΚΑΡΠΕΝΗΣΙ 97,5",ΕΥΡΥΤΑΝΙΑΣ,3000.0,3000.0,3720.0
+radio,ΡΑΔΙΟ ΚΑΣΣΑΝΔΡΑ,ΧΑΛΚΙΔΙΚΗΣ,2000.0,2000.0,2480.0
+radio,ΡΑΔΙΟ ΚΕΡΚΥΡΑ 100.1,ΚΕΡΚΥΡΑΣ,1000.0,1000.0,1240.0
+radio,ΡΑΔΙΟ ΛΗΜΝΟΣ,ΛΕΣΒΟΥ,1500.0,1500.0,1860.0
+radio,ΡΑΔΙΟ ΜΕΤΕΩΡΑ,ΤΡΙΚΑΛΩΝ,2000.0,2000.0,2480.0
+radio,ΡΑΔΙΟ ΠΑΡΑΤΗΡΗΤΗΣ,ΡΟΔΟΠΗΣ,1500.0,1500.0,1860.0
+radio,ΡΑΔΙΟ ΠΟΛΙΣ,ΛΑΡΙΣΗΣ,1000.0,1000.0,1240.0
+radio,ΡΑΔΙΟ ΠΡΕΒΕΖΑ,ΠΡΕΒΕΖΑΣ,3000.0,3000.0,3720.0
+radio,ΡΑΔΙΟ ΡΟΥΜΕΛΗ 98,ΦΘΙΩΤΙΔΑΣ,1000.0,0.0,0.0
+radio,"ΡΑΔΙΟ ΣΕΡΡΕΣ 98,9",ΣΕΡΡΩΝ,3000.0,3000.0,3000.0
+radio,ΡΑΔΙΟ ΣΙΑΤΙΣΤΑ,ΚΟΖΑΝΗΣ,2000.0,2000.0,2480.0
+radio,"ΡΑΔΙΟ ΣΚΑΪ 96,4(ΠΡΩΗΝ ΝΙΚΗ)",ΜΕΣΣΗΝΙΑΣ,1500.0,1500.0,1860.0
+radio,ΡΑΔΙΟ ΤΟΞΟΤΗΣ,ΠΕΛΛΑΣ,2000.0,2000.0,2480.0
+radio,ΡΑΔΙΟ ΦΛΩΡΙΝΑ,ΦΛΩΡΙΝΑΣ,3000.0,3000.0,3720.0
+radio,ΡΥΘΜΟΣ,ΑΤΤΙΚΗΣ,40000.0,40000.0,49600.0
+radio,ΡΥΘΜΟΣ,ΧΑΝΙΩΝ,3000.0,3000.0,3720.0
+radio,"ΣΑΜΟΣ FM 97,7",ΣΑΜΟΥ,1500.0,1500.0,1755.0
+radio,"ΣΕΙΡΙΟΣ FM 95,8",ΒΟΙΩΤΙΑΣ,2000.0,2000.0,2480.0
+radio,ΣΗΤΕΙΑ FM,ΛΑΣΙΘΙΟΥ,1500.0,1500.0,1860.0
+radio,ΣΚΑΙ,ΑΤΤΙΚΗΣ,80000.0,80000.64,99200.79
+radio,ΣΚΑΪ,ΑΡΓΟΛΙΔΑΣ,3000.0,3000.0,3720.0
+radio,"ΣΚΑΪ  90,2 FM",ΖΑΚΥΝΘΟΥ,2000.0,2000.0,2480.0
+radio,"ΣΚΑΪ 89,4",ΑΧΑΪΑΣ,4000.0,4000.0,4960.0
+radio,"ΣΚΑΪ 92,1",ΗΡΑΚΛΕΙΟΥ,2000.0,2000.0,2480.0
+radio,ΣΚΑΙ FM 100,ΔΩΔΕΚΑΝΗΣΟΥ,2000.0,2000.0,2480.0
+radio,ΣΚΑΪ ΑΙΓΑΙΟΥ,ΛΕΣΒΟΥ,1500.0,1500.0,1755.0
+radio,"ΣΚΑΪ ΑΡΚΑΔΙΑΣ 102,8",ΑΡΚΑΔΙΑΣ,1500.0,1500.0,1860.0
+radio,ΣΤΑΓΩΝ,ΤΡΙΚΑΛΩΝ,3000.0,3000.0,3720.0
+radio,ΣΤΑΘΜΟΣ ΜΕΣΟΛΟΓΓΙΟΥ 92,ΑΙΤ/ΝΙΑΣ,1000.0,1000.0,1240.0
+radio,"ΣΤΙΓΜΑ FM 97,6",ΖΑΚΥΝΘΟΥ,2000.0,2000.0,2480.0
+radio,ΣΤΟ ΚΟΚΚΙΝΟ,ΑΤΤΙΚΗΣ,5000.0,5000.0,6200.0
+radio,ΣΦΑΙΡΑ,ΑΤΤΙΚΗΣ,40000.0,40000.0,49600.0
+radio,ΥΔΡΟΓΕΙΟΣ,ΗΡΑΚΛΕΙΟΥ,1500.0,1500.0,1860.0
+radio,ΧΡΟΝΟΣ,ΡΟΔΟΠΗΣ,1500.0,1500.0,1860.0
+radio,"ΧΡΩΜΑ 105,8",ΘΕΣΣΑΛΟΝΙΚΗΣ,5000.0,5000.0,6200.0
+radio,"ΨΙΘΥΡΟΙ 90,3",ΔΡΑΜΑΣ,500.0,500.0,620.0
+tv,A.EPSILON KΡΗΤΗΣ,ΛΑΣΙΘΙΟΥ,5000.0,5014.1,6217.48
+tv,A.EPSILON ΑΝΑΤ. ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ,ΔΡΑΜΑΣ,5000.0,5014.1,6217.48
+tv,A.EPSILON ΝΕΤ,ΜΕΣΣΗΝΙΑΣ,5000.0,5014.1,6217.48
+tv,ACHAIA CHANNEL,ΑΧΑΪΑΣ,5000.0,5000.0,6200.0
+tv,ACTION 24,ΑΤΤΙΚΗΣ,140000.0,139857.0,173422.68
+tv,ALERT,ΑΤΤΙΚΗΣ,15000.0,14976.0,18570.24
+tv,ALPHA,,680000.0,679483.0,842558.92
+tv,ANTENNA,,780000.0,779991.0,967188.84
+tv,ARKADIKI,ΑΡΚΑΔΙΑΣ,3000.0,3000.0,3720.0
+tv,ART TV,ΑΡΤΑΣ,5000.0,5000.0,6200.0
+tv,ASTRA TV,ΜΑΓΝΗΣΙΑΣ,10000.0,10000.0,12400.0
+tv,ATLAS,ΘΕΣΣΑΛΟΝΙΚΗΣ,10000.0,10000.0,12400.0
+tv,ATTICA TV /SBC,ΑΤΤΙΚΗΣ,20000.0,20052.0,24864.48
+tv,BEST,ΑΤΤΙΚΗΣ,15000.0,15000.0,18600.0
+tv,BLUE  SKY,ΑΤΤΙΚΗΣ,50000.0,50000.0,62000.0
+tv,CENTER,ΚΑΒΑΛΑΣ,8000.0,8000.0,9920.0
+tv,CHANNEL 9,ΑΤΤΙΚΗΣ,10000.0,9995.0,12393.8
+tv,CORFU CHANNEL,ΚΕΡΚΥΡΑΣ,5000.0,4939.8,6125.35
+tv,COSMOTE,,50000.0,49790.0,61739.6
+tv,CRETA CHANNEL,ΗΡΑΚΛΕΙΟΥ,15000.0,15000.0,18600.0
+tv,DIMOTIKI THLEORASI KΩ,ΔΩΔΕΚΑΝΗΣΟΥ,3000.0,2996.0,3505.32
+tv,ENA,ΦΘΙΩΤΙΔΑΣ,10000.0,10000.0,12400.0
+tv,EPSILON,ΑΤΤΙΚΗΣ,10000.0,10028.2,12434.97
+tv,EPSILON ΘΕΣΣΑΛΟΝΙΚΗΣ,ΘΕΣΣΑΛΟΝΙΚΗΣ,5000.0,5014.1,6217.48
+tv,EUROCHANNEL,ΚΙΛΚΙΣ,3000.0,3000.0,3720.0
+tv,EUROPE ONE,ΘΕΣΣΑΛΟΝΙΚΗΣ,7000.0,7000.0,8680.0
+tv,EXTRA,ΑΤΤΙΚΗΣ,10000.0,10028.2,12434.97
+tv,FLASH TV,ΚΟΖΑΝΗΣ,8000.0,8000.0,9920.0
+tv,FOX,,50000.0,50004.0,62004.96
+tv,HIGH,ΑΤΤΙΚΗΣ,5000.0,5000.0,6200.0
+tv,I TV,ΙΩΑΝΝΙΝΩΝ,15000.0,15000.0,18600.0
+tv,IRIDATV,ΔΩΔΕΚΑΝΗΣΟΥ,5000.0,4984.0,6180.16
+tv,KONTRA,ΑΤΤΙΚΗΣ,30000.0,29988.16,37185.32
+tv,LEPANTO,ΑΙΤ/ΝΙΑΣ,8000.0,8000.0,9920.0
+tv,MAD TV,ΑΤΤΙΚΗΣ,15000.0,15024.0,18629.76
+tv,MAKTV,ΘΕΣΣΑΛΟΝΙΚΗΣ,100000.0,99967.5,123959.7
+tv,MEGA,,380000.0,379456.5,470526.06
+tv,MESOGEIOS,ΜΕΣΣΗΝΙΑΣ,5000.0,5000.0,6200.0
+tv,NOVA,,50000.0,49489.0,61366.36
+tv,OPEN,,450000.0,449650.0,557566.0
+tv,OPT,ΗΛΕΙΑΣ,5000.0,5000.0,6200.0
+tv,PLPTV,ΗΛΕΙΑΣ,7000.0,6976.0,8650.24
+tv,RHODOS KOSMOS,ΔΩΔΕΚΑΝΗΣΟΥ,10000.0,10000.0,12400.0
+tv,RISE TV,ΑΤΤΙΚΗΣ,10000.0,10000.8,12400.99
+tv,SKAI,,830000.0,830000.0,1029200.0
+tv,STAR,ΔΡΑΜΑΣ,5000.0,5000.0,6200.0
+tv,STAR,,730000.0,729892.0,905066.08
+tv,STAR K.E.,ΦΘΙΩΤΙΔΑΣ,25000.0,25000.0,31000.0
+tv,START,ΚΕΡΚΥΡΑΣ,5000.0,5000.0,6200.0
+tv,SUPER B,ΑΧΑΪΑΣ,10000.0,10000.0,12400.0
+tv,SYROS TV1,ΚΥΚΛΑΔΩΝ,5000.0,5000.0,6200.0
+tv,TOP CHANNEL,ΚΟΖΑΝΗΣ,3000.0,3000.0,3720.0
+tv,TV  10,ΤΡΙΚΑΛΩΝ,5000.0,5000.0,6200.0
+tv,TV 100,ΘΕΣΣΑΛΟΝΙΚΗΣ,15000.0,15000.0,18600.0
+tv,TV SUPER,ΚΟΡΙΝΘΟΥ,10000.0,10000.0,12400.0
+tv,TVALFA,ΕΒΡΟΥ,8000.0,7968.0,9880.32
+tv,VOLCANO,ΚΥΚΛΑΔΩΝ,2000.0,1995.0,2473.8
+tv,WEST CHANNEL,ΚΟΖΑΝΗΣ,10000.0,10000.0,12400.0
+tv,ΑRT,ΑΤΤΙΚΗΣ,10000.0,10007.6,12409.42
+tv,ΑΙΓΑΙΟ,ΔΩΔΕΚΑΝΗΣΟΥ,5000.0,5000.0,6200.0
+tv,ΑΛΗΘΕΙΑ,ΧΙΟΥ,5000.0,5000.0,5850.0
+tv,ΑΧΕΛΩΟΣ,ΑΙΤ/ΝΙΑΣ,10000.0,10000.0,12400.0
+tv,ΒΕΡΓΙΝΑ,ΘΕΣΣΑΛΟΝΙΚΗΣ,20000.0,20000.0,24800.0
+tv,ΒΗΜΑ,ΑΤΤΙΚΗΣ,7000.0,6976.0,8650.24
+tv,ΔΕΛΤΑ,ΕΒΡΟΥ,10000.0,9959.05,12349.22
+tv,ΔΙΚΤΥΟ,ΧΑΝΙΩΝ,10000.0,10000.0,12400.0
+tv,ΔΙΚΤΥΟ 1,ΚΑΣΤΟΡΙΑΣ,5000.0,5000.0,6200.0
+tv,ΔΙΟΝ,ΠΙΕΡΙΑΣ,5000.0,5000.0,6200.0
+tv,ΕΓΝΑΤΙΑ,ΘΕΣΣΑΛΟΝΙΚΗΣ,5000.0,5000.0,6200.0
+tv,ΈΝΑ,ΜΑΓΝΗΣΙΑΣ,12000.0,12000.0,14880.0
+tv,"ΕΡΤ 1,2,3, SPORTS",,270000.0,269933.0,334716.92
+tv,ΗΛΕΚΤΡΑ,ΚΟΡΙΝΘΟΥ,5000.0,5000.0,6200.0
+tv,ΗΠΕΙΡΟΣ  TV 1,ΙΩΑΝΝΙΝΩΝ,10000.0,9999.6,12399.5
+tv,ΘΕΣΣΑΛΙΑ,ΜΑΓΝΗΣΙΑΣ,15000.0,15000.0,18600.0
+tv,ΘΡΑΚΗ ΝΕΤ,ΕΒΡΟΥ,10000.0,10000.0,12400.0
+tv,ΙΟΝΙΑΝ CHANNEL,ΑΧΑΪΑΣ,25000.0,25000.0,31000.0
+tv,ΚΡΗΤΗ 1,ΧΑΝΙΩΝ,5000.0,5000.0,6200.0
+tv,ΚΡΗΤΗ TV,ΗΡΑΚΛΕΙΟΥ,25000.0,25000.0,31000.0
+tv,ΝΕΑ ΤΗΛΕΟΡΑΣΗ,ΧΑΝΙΩΝ,15000.0,15000.0,18600.0
+tv,ΝΕΧΤ ΠΡΩΗΝ XANTHI CHANNEL,ΞΑΝΘΗΣ,3000.0,3000.0,3720.0
+tv,ΟΡΕΣΤΙΑΔΑ (Δ),ΕΒΡΟΥ,5000.0,5000.0,6200.0
+tv,ΠΑΤΡΙΔΑ,ΧΙΟΥ,5000.0,5000.0,6200.0
+tv,ΠΕΛΛΑ TV,ΠΕΛΛΑΣ,5000.0,5000.0,6200.0
+tv,ΣΑΜΙΑΚΗ,ΣΑΜΟΥ,5000.0,5000.0,5850.0
+tv,ΣΗTEIA TV,ΛΑΣΙΘΙΟΥ,3000.0,3000.0,3720.0
+tv,ΤRT  TV,ΜΑΓΝΗΣΙΑΣ,25000.0,25063.0,31078.12
+tv,ΤV MYTILINI,ΛΕΣΒΟΥ,5000.0,5000.0,6200.0
+tv,ΤΗΛΕΠΙΛΟΓΕΣ,ΣΕΡΡΩΝ,4000.0,4000.0,4960.0
